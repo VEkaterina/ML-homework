@@ -103,9 +103,11 @@ Be aware that the application needs time to swicth from sleeping to an active mo
 ## 6. Local Development
 If you want to run the FastAPI + model locally, use the following code:
 
+```
 cd Parkinsons_detect
 docker build -t  pd-detect .
 docker run -p 10000:10000  pd-detect
+```
 
 Then navigate to http://localhost:10000/docs to test the API locally.
 
