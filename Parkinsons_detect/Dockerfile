@@ -10,10 +10,12 @@ ENV PATH="/code/.venv/bin:$PATH"
 
 COPY "pyproject.toml" "uv.lock" ".python-version" ./
 
-RUN uv sync --locked
+RUN uv sync --frozen
 
 COPY "predict.py" "PD_model.bin" ./
 
-EXPOSE 9696
+ENV PORT=10000
 
-ENTRYPOINT ["uvicorn", "predict:app", "--host", "0.0.0.0", "--port", "9696"]
+EXPOSE 10000
+
+CMD ["uvicorn", "predict:app", "--host", "0.0.0.0", "--port", "10000"]

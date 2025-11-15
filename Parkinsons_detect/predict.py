@@ -44,16 +44,5 @@ def predict(person: Dict[str, Any]):
     }
 
 
-'''
-@app.post("/predict")
-def predict(person: Person) -> PredictResponse:
-    prob = predict_single(person.model_dump())
-
-    return PredictResponse(
-        PD_probability=prob,
-        PD_diagnosis=prob >= 0.45
-    )
-'''
-
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=9696)
+    uvicorn.run(app, host="0.0.0.0", port=10000)
