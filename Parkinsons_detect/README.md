@@ -61,14 +61,14 @@ Be aware that the application needs time to swicth from sleeping to an active mo
 
 2. **Prediction via Web UI**:  
    - Visit the API docs: https://pd-detection.onrender.com/docs
-   - Click on **Try it out** button to execute the model.
+   - Click on **Try it out** button to execute the model
    - Replace *"{"additionalProp1": {} }* with a dictionary containing health info of one person from *test.txt*, the click on the **Execute** button.
    - The model will return:  
      - **Probability**: the likelihood of having Parkinson’s disease  
      - **Prediction**: `true` or `false` (based on the decision threshold)
 
 **For example**, if you imput is:
-
+```
 {   "Tremor": "no",
 
     "Rigidity": "no",
@@ -92,12 +92,13 @@ Be aware that the application needs time to swicth from sleeping to an active mo
     "AlcoholConsumption": 15.186769323417664,
 
     "DietQuality": 8.280780531938863 }
+```
 
 **The model will reply with:**
 
-{   "Probability of being diagnosed with PD": 0.8531189083820663,
+"Probability of being diagnosed with PD": 0.8531189083820663,
 
-  "PD diagnosis": true }
+"PD diagnosis": true
 
 ## 6. Local Development
 If you want to run the FastAPI + model locally, use the following code:
