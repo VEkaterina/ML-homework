@@ -60,7 +60,7 @@ Be aware that the application needs time to swicth from sleeping to an active mo
    - Copy one of the feature-dictionary entries from `test.txt`.   
 
 2. **Prediction via Web UI**:  
-   - Visit the API docs: `https://your-service-name.onrender.com/docs`  
+   - Visit the API docs: `https://pd-detection.onrender.com/docs`  
    - Click on **Try it out** button to execute the model.
    - Replace *"{"additionalProp1": {} }* with a dictionary containing health info of one person from *test.txt*, the click on the **Execute** button.
    - The model will return:  
