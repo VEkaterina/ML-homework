@@ -1,0 +1,6315 @@
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 181.6204672161393,
+    "FunctionalAssessment": 0.1671439736383717,
+    "MoCA": 25.169071076613093,
+    "Age": 63,
+    "SleepQuality": 7.062629501539838,
+    "BMI": 16.411189332470087,
+    "AlcoholConsumption": 15.186769323417664,
+    "DietQuality": 8.280780531938863
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 118.58726272805174,
+    "FunctionalAssessment": 0.3853213206170414,
+    "MoCA": 15.760854742353182,
+    "Age": 51,
+    "SleepQuality": 4.394408079401472,
+    "BMI": 38.64200620691635,
+    "AlcoholConsumption": 7.1316040299572725,
+    "DietQuality": 0.6926374239169386
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 89.86372372755692,
+    "FunctionalAssessment": 1.964829326876416,
+    "MoCA": 3.33973947467313,
+    "Age": 66,
+    "SleepQuality": 4.827782154895264,
+    "BMI": 35.238650333992155,
+    "AlcoholConsumption": 10.685962668457943,
+    "DietQuality": 5.981139309867904
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 192.0375549145127,
+    "FunctionalAssessment": 5.285739732169679,
+    "MoCA": 21.7319052062643,
+    "Age": 85,
+    "SleepQuality": 9.736422722601898,
+    "BMI": 19.1625444029318,
+    "AlcoholConsumption": 2.9710292451155174,
+    "DietQuality": 8.179970830250225
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 142.7914893236804,
+    "FunctionalAssessment": 5.246181389131443,
+    "MoCA": 12.443482046927295,
+    "Age": 64,
+    "SleepQuality": 7.747410948652796,
+    "BMI": 39.03358153089343,
+    "AlcoholConsumption": 0.2077044203454647,
+    "DietQuality": 1.7926384671996998
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 54.36024293893284,
+    "FunctionalAssessment": 3.4579890466757712,
+    "MoCA": 18.14860549431217,
+    "Age": 53,
+    "SleepQuality": 8.680453285349536,
+    "BMI": 31.163537815804084,
+    "AlcoholConsumption": 9.32233330010563,
+    "DietQuality": 2.607953236227936
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 170.3313566997734,
+    "FunctionalAssessment": 8.278837414555726,
+    "MoCA": 1.6133150840379762,
+    "Age": 85,
+    "SleepQuality": 4.6671817469567145,
+    "BMI": 37.550798438687366,
+    "AlcoholConsumption": 9.7866953637036,
+    "DietQuality": 0.0415271668585337
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 63.06927345292369,
+    "FunctionalAssessment": 2.0079033948007083,
+    "MoCA": 29.381998672684247,
+    "Age": 77,
+    "SleepQuality": 4.678999981951775,
+    "BMI": 32.59148097899386,
+    "AlcoholConsumption": 6.03781371351154,
+    "DietQuality": 8.73595011699926
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 139.085878930787,
+    "FunctionalAssessment": 1.221936678766801,
+    "MoCA": 15.3451096667095,
+    "Age": 76,
+    "SleepQuality": 7.800459216972245,
+    "BMI": 24.473117461740376,
+    "AlcoholConsumption": 17.408649472029424,
+    "DietQuality": 2.0618299177030863
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 146.3357042032665,
+    "FunctionalAssessment": 2.8128105505585257,
+    "MoCA": 13.10995898431636,
+    "Age": 58,
+    "SleepQuality": 9.728700633854032,
+    "BMI": 39.26498167923208,
+    "AlcoholConsumption": 11.870134430057096,
+    "DietQuality": 8.644875953746954
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 119.03099555075605,
+    "FunctionalAssessment": 9.885518151500635,
+    "MoCA": 24.83405464594832,
+    "Age": 81,
+    "SleepQuality": 9.38234140327129,
+    "BMI": 36.97320926248379,
+    "AlcoholConsumption": 2.6588249189132784,
+    "DietQuality": 5.594419458237453
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 84.24099405039671,
+    "FunctionalAssessment": 8.18618715578922,
+    "MoCA": 10.795199907833728,
+    "Age": 54,
+    "SleepQuality": 5.243442046204237,
+    "BMI": 35.65281800975376,
+    "AlcoholConsumption": 2.096685574714221,
+    "DietQuality": 1.7667348157868068
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 49.56502214136975,
+    "FunctionalAssessment": 0.1836944446697053,
+    "MoCA": 27.59327516237457,
+    "Age": 88,
+    "SleepQuality": 4.086357796822253,
+    "BMI": 17.55223224070078,
+    "AlcoholConsumption": 19.123807143627733,
+    "DietQuality": 5.324170556714334
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 88.27777596127419,
+    "FunctionalAssessment": 8.460135301979333,
+    "MoCA": 22.629375532136475,
+    "Age": 65,
+    "SleepQuality": 8.956675082846221,
+    "BMI": 33.928204694152555,
+    "AlcoholConsumption": 12.12231508272145,
+    "DietQuality": 1.5093054039763276
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 132.55302632040463,
+    "FunctionalAssessment": 6.898202861676954,
+    "MoCA": 0.6737589368220664,
+    "Age": 87,
+    "SleepQuality": 4.841657430192729,
+    "BMI": 20.523600989230964,
+    "AlcoholConsumption": 4.368360274670307,
+    "DietQuality": 6.804877358840279
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 57.14009153428994,
+    "FunctionalAssessment": 6.785344827053875,
+    "MoCA": 19.12231168611184,
+    "Age": 75,
+    "SleepQuality": 5.014456904030045,
+    "BMI": 36.74055920462865,
+    "AlcoholConsumption": 15.5336705264715,
+    "DietQuality": 9.067682092949823
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 29.318974383256343,
+    "FunctionalAssessment": 2.7094495126016738,
+    "MoCA": 10.357566709086054,
+    "Age": 67,
+    "SleepQuality": 6.857300061084656,
+    "BMI": 22.464040669912308,
+    "AlcoholConsumption": 18.67827646911236,
+    "DietQuality": 6.731360793351069
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 105.67966177086204,
+    "FunctionalAssessment": 4.303786074147668,
+    "MoCA": 6.697074640689051,
+    "Age": 72,
+    "SleepQuality": 7.298555372387764,
+    "BMI": 29.804799080370103,
+    "AlcoholConsumption": 6.710799318796868,
+    "DietQuality": 1.5162364172172516
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 127.835731811267,
+    "FunctionalAssessment": 8.167573592534977,
+    "MoCA": 11.164054158246946,
+    "Age": 62,
+    "SleepQuality": 5.192809760561565,
+    "BMI": 34.34558162427738,
+    "AlcoholConsumption": 4.745815069231552,
+    "DietQuality": 8.798075620627865
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 116.4949921628404,
+    "FunctionalAssessment": 7.886669491876731,
+    "MoCA": 13.041229631551024,
+    "Age": 61,
+    "SleepQuality": 9.822551788825276,
+    "BMI": 23.75073351626789,
+    "AlcoholConsumption": 17.507185795064757,
+    "DietQuality": 1.704606093903449
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 115.99256360741624,
+    "FunctionalAssessment": 6.211726526811044,
+    "MoCA": 2.2566517529605026,
+    "Age": 65,
+    "SleepQuality": 9.652032412604772,
+    "BMI": 21.205177921894894,
+    "AlcoholConsumption": 13.7653883011985,
+    "DietQuality": 2.4657566411986087
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 103.82815648975232,
+    "FunctionalAssessment": 4.831058346093747,
+    "MoCA": 15.213913631797276,
+    "Age": 69,
+    "SleepQuality": 6.930471813895289,
+    "BMI": 23.573648135359235,
+    "AlcoholConsumption": 8.639708881974551,
+    "DietQuality": 8.199473483708667
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 32.56593435557369,
+    "FunctionalAssessment": 8.718167862163273,
+    "MoCA": 2.142957842924593,
+    "Age": 72,
+    "SleepQuality": 7.87624178862286,
+    "BMI": 18.91096030861788,
+    "AlcoholConsumption": 18.08495262030792,
+    "DietQuality": 6.409086968983323
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 134.10406622840816,
+    "FunctionalAssessment": 2.526471942013322,
+    "MoCA": 6.638773159923982,
+    "Age": 67,
+    "SleepQuality": 8.175339303586256,
+    "BMI": 32.94877622819499,
+    "AlcoholConsumption": 14.24568330886656,
+    "DietQuality": 4.757285992803213
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 126.7070617880725,
+    "FunctionalAssessment": 2.0076719985010905,
+    "MoCA": 22.88364583025392,
+    "Age": 85,
+    "SleepQuality": 7.370114290431241,
+    "BMI": 23.339187495135995,
+    "AlcoholConsumption": 9.167448015080666,
+    "DietQuality": 2.832329183014064
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 160.29071561035602,
+    "FunctionalAssessment": 6.74873070726164,
+    "MoCA": 17.2974217543692,
+    "Age": 63,
+    "SleepQuality": 9.440700776649807,
+    "BMI": 23.263083240495863,
+    "AlcoholConsumption": 14.794954557741324,
+    "DietQuality": 4.131633577248285
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 157.18453112826683,
+    "FunctionalAssessment": 2.844202228362568,
+    "MoCA": 13.032345048042204,
+    "Age": 86,
+    "SleepQuality": 5.933743966967301,
+    "BMI": 28.917894622764035,
+    "AlcoholConsumption": 11.422364677139871,
+    "DietQuality": 3.480277295603304
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 136.6066495235458,
+    "FunctionalAssessment": 7.495757776805437,
+    "MoCA": 13.236670563315908,
+    "Age": 74,
+    "SleepQuality": 6.514307584523671,
+    "BMI": 35.43978398881555,
+    "AlcoholConsumption": 12.7188735856118,
+    "DietQuality": 9.7834643585231
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 11.579057114600712,
+    "FunctionalAssessment": 8.568487166573396,
+    "MoCA": 14.246835577006784,
+    "Age": 75,
+    "SleepQuality": 4.064359576376305,
+    "BMI": 15.38454121964582,
+    "AlcoholConsumption": 3.640046700661404,
+    "DietQuality": 4.247324963245484
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 46.64663238142566,
+    "FunctionalAssessment": 2.070649765063337,
+    "MoCA": 21.34576824558373,
+    "Age": 58,
+    "SleepQuality": 7.658245489995126,
+    "BMI": 23.69378995384937,
+    "AlcoholConsumption": 19.923681813018742,
+    "DietQuality": 6.524059330579285
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 54.01577291473744,
+    "FunctionalAssessment": 8.843905873752236,
+    "MoCA": 29.331844938894697,
+    "Age": 84,
+    "SleepQuality": 4.582600350299451,
+    "BMI": 21.06721592573093,
+    "AlcoholConsumption": 5.286765718984327,
+    "DietQuality": 6.505237591772545
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 68.35870558294451,
+    "FunctionalAssessment": 9.25787328170084,
+    "MoCA": 14.136592038284626,
+    "Age": 70,
+    "SleepQuality": 7.627247138962648,
+    "BMI": 24.00061081514565,
+    "AlcoholConsumption": 11.431506045291783,
+    "DietQuality": 1.0415493247627128
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 75.20152868968185,
+    "FunctionalAssessment": 2.533780672197319,
+    "MoCA": 21.820544907386505,
+    "Age": 63,
+    "SleepQuality": 8.462738997571599,
+    "BMI": 34.902959993941224,
+    "AlcoholConsumption": 6.934137596424996,
+    "DietQuality": 1.2344101768772764
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 120.35972269599569,
+    "FunctionalAssessment": 8.442090636008286,
+    "MoCA": 21.4103789909991,
+    "Age": 77,
+    "SleepQuality": 5.4526829814395406,
+    "BMI": 22.48770459785783,
+    "AlcoholConsumption": 2.558586897644968,
+    "DietQuality": 5.971320038270239
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 19.739655124283303,
+    "FunctionalAssessment": 6.644289178555094,
+    "MoCA": 8.899105781741598,
+    "Age": 53,
+    "SleepQuality": 8.127320010537966,
+    "BMI": 17.554487641175655,
+    "AlcoholConsumption": 15.055288778783517,
+    "DietQuality": 1.2521776009723296
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 63.88744043625473,
+    "FunctionalAssessment": 8.481597116522678,
+    "MoCA": 27.786546348399632,
+    "Age": 76,
+    "SleepQuality": 6.195398015010885,
+    "BMI": 21.207635495706032,
+    "AlcoholConsumption": 3.983195115952352,
+    "DietQuality": 2.100440141866684
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 94.76787705781987,
+    "FunctionalAssessment": 9.057118563803703,
+    "MoCA": 6.4951280045334405,
+    "Age": 82,
+    "SleepQuality": 7.5084550169183135,
+    "BMI": 29.35933721716289,
+    "AlcoholConsumption": 11.08158838852666,
+    "DietQuality": 4.098170231989185
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 103.5676420628446,
+    "FunctionalAssessment": 4.500744454891898,
+    "MoCA": 19.168532373809537,
+    "Age": 78,
+    "SleepQuality": 6.34716434221472,
+    "BMI": 32.73211613319977,
+    "AlcoholConsumption": 17.171337354375396,
+    "DietQuality": 4.620548440145006
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 72.34794349353768,
+    "FunctionalAssessment": 5.753488579358271,
+    "MoCA": 26.96684246549337,
+    "Age": 52,
+    "SleepQuality": 6.149325793937079,
+    "BMI": 28.923966695577786,
+    "AlcoholConsumption": 15.902841158722172,
+    "DietQuality": 0.8507605976241672
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 10.750693477831335,
+    "FunctionalAssessment": 4.358035069656109,
+    "MoCA": 22.6031325761743,
+    "Age": 81,
+    "SleepQuality": 5.693625996123519,
+    "BMI": 38.43833853034037,
+    "AlcoholConsumption": 16.90883800388474,
+    "DietQuality": 5.57377088042387
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 73.14272356421066,
+    "FunctionalAssessment": 7.812501662762722,
+    "MoCA": 19.166935261852284,
+    "Age": 75,
+    "SleepQuality": 8.128778258753139,
+    "BMI": 23.542729368314337,
+    "AlcoholConsumption": 18.13732611284616,
+    "DietQuality": 6.283439847175806
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 190.2697514836888,
+    "FunctionalAssessment": 4.55887500625394,
+    "MoCA": 15.2830446296997,
+    "Age": 79,
+    "SleepQuality": 8.6693139625661,
+    "BMI": 37.302516145464665,
+    "AlcoholConsumption": 12.645727578817237,
+    "DietQuality": 5.99672819183584
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 164.0373594981518,
+    "FunctionalAssessment": 8.769223104016817,
+    "MoCA": 7.373261331836272,
+    "Age": 78,
+    "SleepQuality": 6.566961787591014,
+    "BMI": 39.9268873802129,
+    "AlcoholConsumption": 19.741457537418803,
+    "DietQuality": 1.8407567885747045
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 55.574194332300266,
+    "FunctionalAssessment": 5.386151517704071,
+    "MoCA": 25.257802963609368,
+    "Age": 61,
+    "SleepQuality": 4.469354881875267,
+    "BMI": 35.19257511847777,
+    "AlcoholConsumption": 4.138121416356184,
+    "DietQuality": 1.79908028910027
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 12.091312858956684,
+    "FunctionalAssessment": 9.55924416046897,
+    "MoCA": 14.050157234678553,
+    "Age": 66,
+    "SleepQuality": 6.039755726467293,
+    "BMI": 27.63198837941793,
+    "AlcoholConsumption": 6.004753193171939,
+    "DietQuality": 2.635112797459165
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 75.24167008109968,
+    "FunctionalAssessment": 1.0863182220481216,
+    "MoCA": 12.766998203001592,
+    "Age": 78,
+    "SleepQuality": 7.207804358693311,
+    "BMI": 31.021721918370137,
+    "AlcoholConsumption": 5.063686193852228,
+    "DietQuality": 4.377591202302568
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 68.6350714020148,
+    "FunctionalAssessment": 4.658224145221541,
+    "MoCA": 11.574084131012969,
+    "Age": 82,
+    "SleepQuality": 4.746441112313623,
+    "BMI": 19.484299002124143,
+    "AlcoholConsumption": 1.167357078566258,
+    "DietQuality": 2.7015121242666678
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 30.595383545589087,
+    "FunctionalAssessment": 8.91826834647489,
+    "MoCA": 2.244512388761999,
+    "Age": 56,
+    "SleepQuality": 6.329898868688204,
+    "BMI": 38.86844002190467,
+    "AlcoholConsumption": 12.56663205046843,
+    "DietQuality": 7.653088645170731
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 65.79001980429558,
+    "FunctionalAssessment": 8.684422056980921,
+    "MoCA": 5.589375653298099,
+    "Age": 73,
+    "SleepQuality": 9.848076026114631,
+    "BMI": 33.10961309746708,
+    "AlcoholConsumption": 14.811939628862865,
+    "DietQuality": 7.920523071543127
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 198.0832440920624,
+    "FunctionalAssessment": 4.544302565075533,
+    "MoCA": 26.578746766232378,
+    "Age": 86,
+    "SleepQuality": 9.07815254578562,
+    "BMI": 24.730607805240343,
+    "AlcoholConsumption": 11.223397786629072,
+    "DietQuality": 2.4790189209342395
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 32.478831408830025,
+    "FunctionalAssessment": 0.8131860912745015,
+    "MoCA": 11.301300823085237,
+    "Age": 61,
+    "SleepQuality": 4.69900268829645,
+    "BMI": 34.95570352207745,
+    "AlcoholConsumption": 17.628607000113686,
+    "DietQuality": 0.2057293211082
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 72.42716296895418,
+    "FunctionalAssessment": 0.2233278556553919,
+    "MoCA": 19.00386622082634,
+    "Age": 71,
+    "SleepQuality": 4.154111478896532,
+    "BMI": 23.897804751821624,
+    "AlcoholConsumption": 3.1687028644568738,
+    "DietQuality": 6.41230470661985
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 197.65667918558736,
+    "FunctionalAssessment": 7.664609919859617,
+    "MoCA": 23.806182387871143,
+    "Age": 66,
+    "SleepQuality": 4.574313446325986,
+    "BMI": 15.33886592089647,
+    "AlcoholConsumption": 3.2973639717161363,
+    "DietQuality": 4.256003568579663
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 121.10075572895724,
+    "FunctionalAssessment": 1.149822043289318,
+    "MoCA": 14.488059000880394,
+    "Age": 75,
+    "SleepQuality": 7.02242805710555,
+    "BMI": 31.41014326866976,
+    "AlcoholConsumption": 6.856263235856918,
+    "DietQuality": 9.825940146110357
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 51.53501919345108,
+    "FunctionalAssessment": 9.795902156321851,
+    "MoCA": 6.880970934728955,
+    "Age": 80,
+    "SleepQuality": 5.243925253457176,
+    "BMI": 38.73119010872611,
+    "AlcoholConsumption": 1.4454214866467097,
+    "DietQuality": 1.0232468777377146
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 65.90256087863152,
+    "FunctionalAssessment": 2.5032732970103986,
+    "MoCA": 12.373208782986682,
+    "Age": 77,
+    "SleepQuality": 8.433760039097532,
+    "BMI": 19.50519120926152,
+    "AlcoholConsumption": 17.895537386753098,
+    "DietQuality": 1.1126700305287585
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 0.0602132235103166,
+    "FunctionalAssessment": 2.3934188240650367,
+    "MoCA": 2.715255371036341,
+    "Age": 50,
+    "SleepQuality": 5.4527831940700695,
+    "BMI": 27.67551691170624,
+    "AlcoholConsumption": 0.952302843713948,
+    "DietQuality": 0.2944981317863404
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 130.8300083329735,
+    "FunctionalAssessment": 2.714049016260579,
+    "MoCA": 3.435890201763269,
+    "Age": 59,
+    "SleepQuality": 9.088935455819271,
+    "BMI": 22.99787244262939,
+    "AlcoholConsumption": 15.265077457436998,
+    "DietQuality": 6.217816207924667
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 8.92809865880336,
+    "FunctionalAssessment": 3.792434329843988,
+    "MoCA": 23.573589539008285,
+    "Age": 56,
+    "SleepQuality": 4.379747438434561,
+    "BMI": 26.569986063528688,
+    "AlcoholConsumption": 18.022850987141364,
+    "DietQuality": 4.294587571636948
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 53.60856579611857,
+    "FunctionalAssessment": 1.0771526487509353,
+    "MoCA": 23.22680358667275,
+    "Age": 57,
+    "SleepQuality": 8.480679594252013,
+    "BMI": 22.51764265301137,
+    "AlcoholConsumption": 9.577044033021412,
+    "DietQuality": 3.94038766322503
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 74.55784367793602,
+    "FunctionalAssessment": 0.1281158568284657,
+    "MoCA": 2.451289574494626,
+    "Age": 82,
+    "SleepQuality": 5.964236331676142,
+    "BMI": 32.17556192697833,
+    "AlcoholConsumption": 2.528099433942548,
+    "DietQuality": 0.186076228095966
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 81.75578504689184,
+    "FunctionalAssessment": 6.223093996740135,
+    "MoCA": 4.867463681823734,
+    "Age": 79,
+    "SleepQuality": 9.122314772978369,
+    "BMI": 34.624683399065205,
+    "AlcoholConsumption": 8.760798823198197,
+    "DietQuality": 7.390669342450367
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 108.44279542740378,
+    "FunctionalAssessment": 6.205145952719388,
+    "MoCA": 26.341673735849607,
+    "Age": 84,
+    "SleepQuality": 6.011636353659681,
+    "BMI": 29.723807091481063,
+    "AlcoholConsumption": 13.082980630910948,
+    "DietQuality": 9.973459538126132
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 18.677866409054047,
+    "FunctionalAssessment": 4.6822651624335485,
+    "MoCA": 28.40325171596846,
+    "Age": 86,
+    "SleepQuality": 6.264413510445164,
+    "BMI": 29.03221943178652,
+    "AlcoholConsumption": 17.464772916233823,
+    "DietQuality": 3.3562381841077507
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 47.45297619137189,
+    "FunctionalAssessment": 5.831591709792743,
+    "MoCA": 26.21235201428605,
+    "Age": 56,
+    "SleepQuality": 5.604106119054678,
+    "BMI": 17.991247224838876,
+    "AlcoholConsumption": 7.794554164031339,
+    "DietQuality": 4.025746031112445
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 57.78175837236918,
+    "FunctionalAssessment": 7.129492813043954,
+    "MoCA": 27.05975157689237,
+    "Age": 81,
+    "SleepQuality": 5.805875083318419,
+    "BMI": 39.02700401493025,
+    "AlcoholConsumption": 0.0450366905516985,
+    "DietQuality": 0.0706094749336205
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 2.3843675581181807,
+    "FunctionalAssessment": 7.784184438550277,
+    "MoCA": 27.182504929720032,
+    "Age": 85,
+    "SleepQuality": 5.913723154330158,
+    "BMI": 37.78356927851381,
+    "AlcoholConsumption": 1.3698586417245595,
+    "DietQuality": 8.281932239347222
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 181.76318240852487,
+    "FunctionalAssessment": 4.538222832067688,
+    "MoCA": 1.6570053599546342,
+    "Age": 53,
+    "SleepQuality": 8.609707284902822,
+    "BMI": 15.189213607561712,
+    "AlcoholConsumption": 3.4608143814677006,
+    "DietQuality": 9.364845466813795
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 101.03710384676008,
+    "FunctionalAssessment": 6.909804064300916,
+    "MoCA": 18.50879708014404,
+    "Age": 82,
+    "SleepQuality": 8.069933525005041,
+    "BMI": 26.103406013918026,
+    "AlcoholConsumption": 15.328898306403076,
+    "DietQuality": 5.994618648734628
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 114.88513644554928,
+    "FunctionalAssessment": 9.992697334523715,
+    "MoCA": 26.67663630237148,
+    "Age": 54,
+    "SleepQuality": 6.339568924182483,
+    "BMI": 18.195926174611994,
+    "AlcoholConsumption": 7.374409119477754,
+    "DietQuality": 6.791586483721263
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 174.6981850446872,
+    "FunctionalAssessment": 7.2273606064515485,
+    "MoCA": 14.752612439539742,
+    "Age": 71,
+    "SleepQuality": 6.016192936207818,
+    "BMI": 24.00520530361803,
+    "AlcoholConsumption": 19.06550291285469,
+    "DietQuality": 0.9317504246493024
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 55.48805288606707,
+    "FunctionalAssessment": 3.0884931938163342,
+    "MoCA": 9.252504616072878,
+    "Age": 50,
+    "SleepQuality": 9.740646141759337,
+    "BMI": 38.18919484680667,
+    "AlcoholConsumption": 10.57189198582292,
+    "DietQuality": 5.9374275688355125
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 186.715196201665,
+    "FunctionalAssessment": 6.875202897337399,
+    "MoCA": 13.058039808426855,
+    "Age": 84,
+    "SleepQuality": 9.366713762299703,
+    "BMI": 36.60303835479313,
+    "AlcoholConsumption": 6.352905212765196,
+    "DietQuality": 1.7840150888033357
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 179.37240921451843,
+    "FunctionalAssessment": 4.664527063229468,
+    "MoCA": 3.4068598009516835,
+    "Age": 54,
+    "SleepQuality": 7.420787773778669,
+    "BMI": 20.438159945869494,
+    "AlcoholConsumption": 6.39254812190512,
+    "DietQuality": 2.281227837120924
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 160.6066525470251,
+    "FunctionalAssessment": 0.8721643538994928,
+    "MoCA": 3.2333184805782067,
+    "Age": 76,
+    "SleepQuality": 9.290620005533269,
+    "BMI": 25.265481624651724,
+    "AlcoholConsumption": 15.487305562283373,
+    "DietQuality": 7.105064173920895
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 14.787632822292782,
+    "FunctionalAssessment": 4.532776795677364,
+    "MoCA": 21.709988392585856,
+    "Age": 57,
+    "SleepQuality": 6.757882104379802,
+    "BMI": 36.37775086125113,
+    "AlcoholConsumption": 8.36038816488565,
+    "DietQuality": 1.509882050724244
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 38.54285177624719,
+    "FunctionalAssessment": 8.654940914511865,
+    "MoCA": 26.00161111483253,
+    "Age": 63,
+    "SleepQuality": 6.477562792989851,
+    "BMI": 36.89176219765349,
+    "AlcoholConsumption": 9.727351657278348,
+    "DietQuality": 5.508362828297075
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 134.18767999357723,
+    "FunctionalAssessment": 8.408278937875528,
+    "MoCA": 3.090828018174472,
+    "Age": 53,
+    "SleepQuality": 6.197205906033717,
+    "BMI": 19.6998220799821,
+    "AlcoholConsumption": 16.902343163091544,
+    "DietQuality": 2.088943810923467
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 92.1890361153416,
+    "FunctionalAssessment": 2.9565783625558293,
+    "MoCA": 29.777580336719048,
+    "Age": 51,
+    "SleepQuality": 7.69996233225855,
+    "BMI": 15.243362166896793,
+    "AlcoholConsumption": 2.5351343960410566,
+    "DietQuality": 1.2452616444419873
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 48.02047484377246,
+    "FunctionalAssessment": 3.3149984618707142,
+    "MoCA": 22.70877281773184,
+    "Age": 86,
+    "SleepQuality": 9.1099075381393,
+    "BMI": 31.30813408671013,
+    "AlcoholConsumption": 13.517672119608836,
+    "DietQuality": 4.297860490356722
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 141.01787454090368,
+    "FunctionalAssessment": 7.1568491358714255,
+    "MoCA": 7.19154952664349,
+    "Age": 85,
+    "SleepQuality": 8.24600766087863,
+    "BMI": 30.57636754483068,
+    "AlcoholConsumption": 0.0558059486802786,
+    "DietQuality": 0.491285601060627
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 172.29570205441206,
+    "FunctionalAssessment": 1.4236658802769375,
+    "MoCA": 21.379873431558583,
+    "Age": 82,
+    "SleepQuality": 8.099481734985549,
+    "BMI": 31.112723353456488,
+    "AlcoholConsumption": 9.096949262969042,
+    "DietQuality": 3.2212426278507533
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 79.04324010581512,
+    "FunctionalAssessment": 1.7186526034758476,
+    "MoCA": 1.796766355021261,
+    "Age": 52,
+    "SleepQuality": 8.23153328587386,
+    "BMI": 22.5972096216241,
+    "AlcoholConsumption": 6.689462737855898,
+    "DietQuality": 5.943291789266411
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 67.01883962654533,
+    "FunctionalAssessment": 0.0816411451867649,
+    "MoCA": 5.189646453353386,
+    "Age": 81,
+    "SleepQuality": 9.535690954738792,
+    "BMI": 32.629608245703054,
+    "AlcoholConsumption": 13.211076659824275,
+    "DietQuality": 4.397543128314102
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 28.190852391704816,
+    "FunctionalAssessment": 1.0966682350194612,
+    "MoCA": 18.4520451397328,
+    "Age": 62,
+    "SleepQuality": 6.915102208268175,
+    "BMI": 23.25264768723772,
+    "AlcoholConsumption": 17.51890007690692,
+    "DietQuality": 8.210660916054339
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 198.57499863787308,
+    "FunctionalAssessment": 4.780714101536496,
+    "MoCA": 7.852235788471326,
+    "Age": 60,
+    "SleepQuality": 8.574911050311405,
+    "BMI": 17.5629108047185,
+    "AlcoholConsumption": 12.809561001386466,
+    "DietQuality": 7.941810051778441
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 198.8669011272402,
+    "FunctionalAssessment": 8.535029609609259,
+    "MoCA": 28.95820434643257,
+    "Age": 80,
+    "SleepQuality": 5.391385037695038,
+    "BMI": 23.540982267878515,
+    "AlcoholConsumption": 16.455589291062765,
+    "DietQuality": 1.20259536557192
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 118.130123184,
+    "FunctionalAssessment": 2.0634322802037985,
+    "MoCA": 12.294384093930352,
+    "Age": 85,
+    "SleepQuality": 9.028799856231997,
+    "BMI": 38.64987923506228,
+    "AlcoholConsumption": 3.5011182048953127,
+    "DietQuality": 6.88186591295207
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 7.586472423325194,
+    "FunctionalAssessment": 4.295298806260973,
+    "MoCA": 16.586391236642605,
+    "Age": 83,
+    "SleepQuality": 6.136026310563416,
+    "BMI": 36.99983762101101,
+    "AlcoholConsumption": 18.50371842278986,
+    "DietQuality": 4.369279763970226
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 148.9997111151366,
+    "FunctionalAssessment": 6.689491398274221,
+    "MoCA": 23.26391483831822,
+    "Age": 55,
+    "SleepQuality": 5.310204762436719,
+    "BMI": 30.870809804728022,
+    "AlcoholConsumption": 4.138162143970408,
+    "DietQuality": 3.4020239652608297
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 154.47652692890114,
+    "FunctionalAssessment": 9.141648494288813,
+    "MoCA": 26.34378529176835,
+    "Age": 67,
+    "SleepQuality": 7.436329437094566,
+    "BMI": 15.159941903892069,
+    "AlcoholConsumption": 12.226298955469987,
+    "DietQuality": 9.937732347718734
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 114.5269316253118,
+    "FunctionalAssessment": 2.142028211180186,
+    "MoCA": 19.86678079516928,
+    "Age": 68,
+    "SleepQuality": 7.334580525439445,
+    "BMI": 32.3411895773688,
+    "AlcoholConsumption": 5.6718517450100965,
+    "DietQuality": 9.46353308608206
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 14.5606633636124,
+    "FunctionalAssessment": 3.935636215863276,
+    "MoCA": 3.98174872179156,
+    "Age": 83,
+    "SleepQuality": 6.356110978754463,
+    "BMI": 25.28860012569043,
+    "AlcoholConsumption": 3.271602445385726,
+    "DietQuality": 9.63257918924145
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 160.87932983892622,
+    "FunctionalAssessment": 1.7513549529276418,
+    "MoCA": 17.688733325067403,
+    "Age": 79,
+    "SleepQuality": 9.036512595931288,
+    "BMI": 36.61082733127377,
+    "AlcoholConsumption": 9.114891126177431,
+    "DietQuality": 2.244846243009876
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 144.34863846092767,
+    "FunctionalAssessment": 3.807652111511474,
+    "MoCA": 6.46490814157203,
+    "Age": 87,
+    "SleepQuality": 4.443521124156563,
+    "BMI": 16.27481803982542,
+    "AlcoholConsumption": 18.268572879143612,
+    "DietQuality": 1.0757534420104842
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 181.78149319596335,
+    "FunctionalAssessment": 1.2979001342584429,
+    "MoCA": 22.41572184657213,
+    "Age": 66,
+    "SleepQuality": 4.843119927673177,
+    "BMI": 37.39645561599347,
+    "AlcoholConsumption": 18.768099984339557,
+    "DietQuality": 4.13398520373807
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 147.63236986933293,
+    "FunctionalAssessment": 2.8974015426492383,
+    "MoCA": 10.464271349872366,
+    "Age": 54,
+    "SleepQuality": 5.652724124914731,
+    "BMI": 19.775077132922785,
+    "AlcoholConsumption": 13.78360427067673,
+    "DietQuality": 0.8398389469540113
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 149.88288297054663,
+    "FunctionalAssessment": 6.370108319804015,
+    "MoCA": 20.338094521954563,
+    "Age": 64,
+    "SleepQuality": 5.08120443898838,
+    "BMI": 27.751948786285645,
+    "AlcoholConsumption": 11.482825550653644,
+    "DietQuality": 6.805684112307661
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 71.03687025262349,
+    "FunctionalAssessment": 1.3778714293693597,
+    "MoCA": 17.067744770602406,
+    "Age": 78,
+    "SleepQuality": 9.39371181137671,
+    "BMI": 32.81064814780183,
+    "AlcoholConsumption": 18.76547005877032,
+    "DietQuality": 6.888775334584672
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 178.82538979619082,
+    "FunctionalAssessment": 0.6267488950501721,
+    "MoCA": 10.575420984763635,
+    "Age": 62,
+    "SleepQuality": 9.677271578678267,
+    "BMI": 27.13150173237629,
+    "AlcoholConsumption": 18.062116780329347,
+    "DietQuality": 4.49485516517534
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 171.812521184335,
+    "FunctionalAssessment": 7.123245029440703,
+    "MoCA": 25.33908977634351,
+    "Age": 76,
+    "SleepQuality": 5.300544576933472,
+    "BMI": 22.892635964512262,
+    "AlcoholConsumption": 18.55022035196819,
+    "DietQuality": 7.1741239966053065
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 85.96803442167341,
+    "FunctionalAssessment": 1.0958628303092754,
+    "MoCA": 5.152604644511235,
+    "Age": 61,
+    "SleepQuality": 5.269610588101603,
+    "BMI": 29.1054481249338,
+    "AlcoholConsumption": 13.524499638640917,
+    "DietQuality": 6.333806262750963
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 144.63420607719604,
+    "FunctionalAssessment": 0.2043413631108526,
+    "MoCA": 6.679226741350773,
+    "Age": 70,
+    "SleepQuality": 7.0514775230460485,
+    "BMI": 28.111889553560864,
+    "AlcoholConsumption": 7.162563183037076,
+    "DietQuality": 2.001656961405329
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 11.993988473874218,
+    "FunctionalAssessment": 7.358590994093146,
+    "MoCA": 9.57609828779173,
+    "Age": 77,
+    "SleepQuality": 5.410684745822353,
+    "BMI": 21.582708043117066,
+    "AlcoholConsumption": 8.001429337712496,
+    "DietQuality": 0.4624246333835458
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 30.952378004397676,
+    "FunctionalAssessment": 5.854862936070692,
+    "MoCA": 28.54164366004226,
+    "Age": 88,
+    "SleepQuality": 6.359913781287952,
+    "BMI": 19.931085036434684,
+    "AlcoholConsumption": 7.315374730422994,
+    "DietQuality": 8.86831866951922
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 129.66909398842978,
+    "FunctionalAssessment": 1.916519665234101,
+    "MoCA": 29.37972550506216,
+    "Age": 69,
+    "SleepQuality": 8.739835901821897,
+    "BMI": 28.35183423042495,
+    "AlcoholConsumption": 15.331957059425294,
+    "DietQuality": 2.482580578539567
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 170.4009322605674,
+    "FunctionalAssessment": 5.1884428966691765,
+    "MoCA": 6.8791425092261616,
+    "Age": 80,
+    "SleepQuality": 6.008041117135736,
+    "BMI": 31.714543361490666,
+    "AlcoholConsumption": 18.8770908047331,
+    "DietQuality": 9.318905901879138
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 75.34596054976743,
+    "FunctionalAssessment": 6.690267715583158,
+    "MoCA": 26.2409027206489,
+    "Age": 56,
+    "SleepQuality": 4.144822997097326,
+    "BMI": 19.61882214080356,
+    "AlcoholConsumption": 12.411903071003731,
+    "DietQuality": 2.5669938041090843
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 93.15385765501247,
+    "FunctionalAssessment": 8.566524991266936,
+    "MoCA": 9.67972782339996,
+    "Age": 58,
+    "SleepQuality": 9.742725990950676,
+    "BMI": 23.269235819898903,
+    "AlcoholConsumption": 14.533270215081766,
+    "DietQuality": 4.894547538792578
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 103.35212671869606,
+    "FunctionalAssessment": 3.921595856059147,
+    "MoCA": 25.886012369622296,
+    "Age": 89,
+    "SleepQuality": 4.020075546825428,
+    "BMI": 31.964515864339887,
+    "AlcoholConsumption": 19.35777583728603,
+    "DietQuality": 4.585510204188406
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 179.9426523147584,
+    "FunctionalAssessment": 9.1788162139444,
+    "MoCA": 29.342776194296984,
+    "Age": 57,
+    "SleepQuality": 7.608834397441279,
+    "BMI": 35.96714865946379,
+    "AlcoholConsumption": 2.8261774462787947,
+    "DietQuality": 2.413799160683363
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 26.70761324002617,
+    "FunctionalAssessment": 2.5398829057319983,
+    "MoCA": 19.85769324784176,
+    "Age": 73,
+    "SleepQuality": 7.098517933660654,
+    "BMI": 18.868793058037912,
+    "AlcoholConsumption": 5.909723081258241,
+    "DietQuality": 7.078268454427255
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 79.50905088775106,
+    "FunctionalAssessment": 5.397979226645068,
+    "MoCA": 13.808820249285196,
+    "Age": 84,
+    "SleepQuality": 7.933068319559709,
+    "BMI": 17.00471394146412,
+    "AlcoholConsumption": 8.983176768883276,
+    "DietQuality": 7.019218629773772
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 164.48206823975235,
+    "FunctionalAssessment": 0.0337183412266139,
+    "MoCA": 17.058181752011727,
+    "Age": 50,
+    "SleepQuality": 4.546157441883901,
+    "BMI": 26.4475870499542,
+    "AlcoholConsumption": 8.510853304146206,
+    "DietQuality": 5.622417440140191
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 198.8083932530284,
+    "FunctionalAssessment": 4.7449309002393,
+    "MoCA": 0.0902515926439584,
+    "Age": 50,
+    "SleepQuality": 6.496108845433039,
+    "BMI": 35.48061118428377,
+    "AlcoholConsumption": 1.530023882966507,
+    "DietQuality": 5.854949160143227
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 31.508889044151548,
+    "FunctionalAssessment": 4.769037444423886,
+    "MoCA": 25.179787551444345,
+    "Age": 60,
+    "SleepQuality": 9.785905848706498,
+    "BMI": 33.872827500468844,
+    "AlcoholConsumption": 11.82911879959509,
+    "DietQuality": 0.983589920090916
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 36.36424889428698,
+    "FunctionalAssessment": 3.057733321309579,
+    "MoCA": 26.279035898430845,
+    "Age": 59,
+    "SleepQuality": 8.617308046709343,
+    "BMI": 17.478904530716033,
+    "AlcoholConsumption": 15.966893163711743,
+    "DietQuality": 9.156339119327384
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 67.26367214122622,
+    "FunctionalAssessment": 0.9098207160983264,
+    "MoCA": 24.76464521020154,
+    "Age": 75,
+    "SleepQuality": 7.215089093760689,
+    "BMI": 26.291636509112625,
+    "AlcoholConsumption": 10.861082990804318,
+    "DietQuality": 8.632877057015628
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 174.327877665445,
+    "FunctionalAssessment": 2.4595178176348176,
+    "MoCA": 7.927406697453331,
+    "Age": 65,
+    "SleepQuality": 8.14705048168193,
+    "BMI": 16.48787431380492,
+    "AlcoholConsumption": 12.006346445148116,
+    "DietQuality": 3.0677400610342795
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 42.01613137730722,
+    "FunctionalAssessment": 6.009257909246917,
+    "MoCA": 27.535324299595548,
+    "Age": 81,
+    "SleepQuality": 8.816102683564054,
+    "BMI": 16.563091843129918,
+    "AlcoholConsumption": 6.150918860340124,
+    "DietQuality": 5.967492787379434
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 90.74069922553323,
+    "FunctionalAssessment": 0.0015369370217444,
+    "MoCA": 2.646451510254076,
+    "Age": 58,
+    "SleepQuality": 4.769617490483592,
+    "BMI": 32.99832103513876,
+    "AlcoholConsumption": 14.758461876196057,
+    "DietQuality": 8.525237286627528
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 65.98192160108255,
+    "FunctionalAssessment": 5.053634667698303,
+    "MoCA": 19.640968908148366,
+    "Age": 59,
+    "SleepQuality": 7.529824333331635,
+    "BMI": 17.678920046000073,
+    "AlcoholConsumption": 3.4541628705929583,
+    "DietQuality": 3.214955475547525
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 90.09228247643216,
+    "FunctionalAssessment": 8.319248651413925,
+    "MoCA": 9.221918835627251,
+    "Age": 81,
+    "SleepQuality": 6.16405379542001,
+    "BMI": 30.94429889675671,
+    "AlcoholConsumption": 14.73633800122192,
+    "DietQuality": 4.795079919569166
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 20.65379534421671,
+    "FunctionalAssessment": 6.275571273817928,
+    "MoCA": 15.58619625709624,
+    "Age": 84,
+    "SleepQuality": 9.940659531990452,
+    "BMI": 30.900157704106668,
+    "AlcoholConsumption": 13.712621050499436,
+    "DietQuality": 8.971060651057902
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 112.56359826729202,
+    "FunctionalAssessment": 5.307988701152836,
+    "MoCA": 3.85544816220316,
+    "Age": 81,
+    "SleepQuality": 5.432379541015184,
+    "BMI": 21.202221373388987,
+    "AlcoholConsumption": 4.398566916319389,
+    "DietQuality": 7.525275539953238
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 83.3297583212831,
+    "FunctionalAssessment": 9.14390242817918,
+    "MoCA": 23.26181756187542,
+    "Age": 73,
+    "SleepQuality": 5.694231617964226,
+    "BMI": 20.073366620217005,
+    "AlcoholConsumption": 12.043150096724451,
+    "DietQuality": 6.448148746280392
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 15.286421449950431,
+    "FunctionalAssessment": 9.212531016820645,
+    "MoCA": 4.815856766649772,
+    "Age": 73,
+    "SleepQuality": 9.343183002232236,
+    "BMI": 39.76815326026093,
+    "AlcoholConsumption": 8.29370246436622,
+    "DietQuality": 7.654429427556594
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 197.62229112156615,
+    "FunctionalAssessment": 4.462285721111342,
+    "MoCA": 17.953235518363112,
+    "Age": 75,
+    "SleepQuality": 4.7266941364312665,
+    "BMI": 21.77628746064144,
+    "AlcoholConsumption": 1.156576150597779,
+    "DietQuality": 3.446482999515561
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 41.90659146712007,
+    "FunctionalAssessment": 3.987270487960653,
+    "MoCA": 9.928352214409545,
+    "Age": 51,
+    "SleepQuality": 5.629560651678395,
+    "BMI": 18.01340859410283,
+    "AlcoholConsumption": 1.8860725850970184,
+    "DietQuality": 5.590475436325976
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 180.7406521481773,
+    "FunctionalAssessment": 2.7006381306821883,
+    "MoCA": 3.319718873912312,
+    "Age": 75,
+    "SleepQuality": 5.703345757644791,
+    "BMI": 29.867603585017925,
+    "AlcoholConsumption": 18.817142429870778,
+    "DietQuality": 7.291250606127074
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 92.94285934059506,
+    "FunctionalAssessment": 8.07506504921894,
+    "MoCA": 4.096170382782875,
+    "Age": 66,
+    "SleepQuality": 7.53016376966197,
+    "BMI": 27.849367063709696,
+    "AlcoholConsumption": 12.794079022580346,
+    "DietQuality": 6.842386542667185
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 191.7492546895976,
+    "FunctionalAssessment": 1.5460415104312677,
+    "MoCA": 24.223798615878188,
+    "Age": 55,
+    "SleepQuality": 6.982171112203255,
+    "BMI": 34.63872588325293,
+    "AlcoholConsumption": 18.29567552842541,
+    "DietQuality": 1.420230802960234
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 46.020462534358,
+    "FunctionalAssessment": 8.889715114440621,
+    "MoCA": 16.891339402304048,
+    "Age": 57,
+    "SleepQuality": 6.006125200273668,
+    "BMI": 24.29345669986142,
+    "AlcoholConsumption": 18.837299498197737,
+    "DietQuality": 2.6990817626429333
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 135.33990345074392,
+    "FunctionalAssessment": 0.1563112719772996,
+    "MoCA": 28.26337880643985,
+    "Age": 55,
+    "SleepQuality": 6.221844325745463,
+    "BMI": 18.539072885612967,
+    "AlcoholConsumption": 2.1599156999133995,
+    "DietQuality": 1.820071142356794
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 35.52445666399863,
+    "FunctionalAssessment": 3.812429205311132,
+    "MoCA": 17.91521752081381,
+    "Age": 58,
+    "SleepQuality": 9.157089618395576,
+    "BMI": 31.465241512099738,
+    "AlcoholConsumption": 15.759225976668034,
+    "DietQuality": 0.5825412456732115
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 6.355125092197987,
+    "FunctionalAssessment": 4.709691444240213,
+    "MoCA": 25.176567469226697,
+    "Age": 75,
+    "SleepQuality": 9.292301744152551,
+    "BMI": 17.2779564597186,
+    "AlcoholConsumption": 18.151194243912432,
+    "DietQuality": 5.366621689162652
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 137.51186912930137,
+    "FunctionalAssessment": 0.2980249555043757,
+    "MoCA": 23.02472369060578,
+    "Age": 68,
+    "SleepQuality": 6.1338918434124805,
+    "BMI": 19.998047263633783,
+    "AlcoholConsumption": 18.76563835047573,
+    "DietQuality": 2.411717813720322
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 188.43023503635305,
+    "FunctionalAssessment": 6.846693713633673,
+    "MoCA": 22.667692741854733,
+    "Age": 59,
+    "SleepQuality": 5.323703663058961,
+    "BMI": 34.64334666043107,
+    "AlcoholConsumption": 5.717781816461587,
+    "DietQuality": 9.943308628369351
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 185.13542876724725,
+    "FunctionalAssessment": 9.021983708331136,
+    "MoCA": 3.316484829744329,
+    "Age": 80,
+    "SleepQuality": 7.10362286124218,
+    "BMI": 26.04525054123576,
+    "AlcoholConsumption": 19.85635386720798,
+    "DietQuality": 8.591318514203099
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 163.85798896945514,
+    "FunctionalAssessment": 9.686811922822,
+    "MoCA": 0.3222988460053866,
+    "Age": 66,
+    "SleepQuality": 5.34170980937089,
+    "BMI": 25.13275174709935,
+    "AlcoholConsumption": 17.376438240490653,
+    "DietQuality": 6.25229806293382
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 77.51526907566432,
+    "FunctionalAssessment": 8.018437429701242,
+    "MoCA": 12.471423454272143,
+    "Age": 83,
+    "SleepQuality": 5.675838091450947,
+    "BMI": 22.725070482155488,
+    "AlcoholConsumption": 5.761687994109863,
+    "DietQuality": 3.046752827494984
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 142.34360261601546,
+    "FunctionalAssessment": 4.864598085798459,
+    "MoCA": 29.224893168373484,
+    "Age": 65,
+    "SleepQuality": 6.17695727146418,
+    "BMI": 16.615894869117653,
+    "AlcoholConsumption": 1.9370010376271816,
+    "DietQuality": 5.114238052813784
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 135.40489847021504,
+    "FunctionalAssessment": 3.659367750822789,
+    "MoCA": 14.11079160389643,
+    "Age": 77,
+    "SleepQuality": 4.1233036248006805,
+    "BMI": 21.99324083459772,
+    "AlcoholConsumption": 14.919662843243962,
+    "DietQuality": 3.56835460152516
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 161.75879582200093,
+    "FunctionalAssessment": 6.245139851679051,
+    "MoCA": 15.137586166061874,
+    "Age": 51,
+    "SleepQuality": 7.98429603617876,
+    "BMI": 33.648866384232,
+    "AlcoholConsumption": 10.944842510309636,
+    "DietQuality": 7.52473246704909
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 78.64942310400832,
+    "FunctionalAssessment": 6.44475595547312,
+    "MoCA": 21.256659684727712,
+    "Age": 60,
+    "SleepQuality": 9.539802144646996,
+    "BMI": 39.88299204308152,
+    "AlcoholConsumption": 14.62404073245898,
+    "DietQuality": 5.207453042105982
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 100.87457290645096,
+    "FunctionalAssessment": 5.103643004266626,
+    "MoCA": 1.938051890914748,
+    "Age": 52,
+    "SleepQuality": 6.262874902557139,
+    "BMI": 25.39271824164329,
+    "AlcoholConsumption": 14.471451203743094,
+    "DietQuality": 3.813587300904373
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 194.6142567779641,
+    "FunctionalAssessment": 9.917646234244955,
+    "MoCA": 10.271597287502596,
+    "Age": 65,
+    "SleepQuality": 5.884791294497006,
+    "BMI": 37.17440144142692,
+    "AlcoholConsumption": 11.282635402696233,
+    "DietQuality": 7.225251280676325
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 4.006897989877964,
+    "FunctionalAssessment": 5.51318271761077,
+    "MoCA": 6.691497151785302,
+    "Age": 74,
+    "SleepQuality": 5.791972018421998,
+    "BMI": 17.959134220686202,
+    "AlcoholConsumption": 19.978796828032145,
+    "DietQuality": 9.655445865629034
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 9.77005385864777,
+    "FunctionalAssessment": 0.6618045155495778,
+    "MoCA": 28.471659585801916,
+    "Age": 54,
+    "SleepQuality": 5.185159667254481,
+    "BMI": 38.58268838049593,
+    "AlcoholConsumption": 16.619892597293337,
+    "DietQuality": 6.711173101111447
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 54.54495780080609,
+    "FunctionalAssessment": 9.18411972023388,
+    "MoCA": 0.627978431933911,
+    "Age": 71,
+    "SleepQuality": 9.082629668277889,
+    "BMI": 15.35790513900836,
+    "AlcoholConsumption": 18.754715887427853,
+    "DietQuality": 6.9401745202285845
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 116.22399306786824,
+    "FunctionalAssessment": 0.0741907772028305,
+    "MoCA": 25.25682994668433,
+    "Age": 78,
+    "SleepQuality": 9.210607333292598,
+    "BMI": 20.243158385514928,
+    "AlcoholConsumption": 15.163262725380562,
+    "DietQuality": 5.190881860324073
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 128.86136670357072,
+    "FunctionalAssessment": 2.1935901170056527,
+    "MoCA": 23.52586849946429,
+    "Age": 51,
+    "SleepQuality": 9.840289801015484,
+    "BMI": 34.18342541192458,
+    "AlcoholConsumption": 3.154147103832245,
+    "DietQuality": 5.183898538431841
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 179.94961958090255,
+    "FunctionalAssessment": 1.677191897491361,
+    "MoCA": 23.545640207550747,
+    "Age": 77,
+    "SleepQuality": 9.14449868153369,
+    "BMI": 37.46786066141077,
+    "AlcoholConsumption": 9.714475960939884,
+    "DietQuality": 5.343628959037813
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 24.884665342929413,
+    "FunctionalAssessment": 1.132171128544246,
+    "MoCA": 7.411661681113976,
+    "Age": 62,
+    "SleepQuality": 5.78831132639388,
+    "BMI": 28.80535297565499,
+    "AlcoholConsumption": 0.7327161921060532,
+    "DietQuality": 1.755249187250015
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 196.45599652361707,
+    "FunctionalAssessment": 2.6575527061566886,
+    "MoCA": 27.05040735170957,
+    "Age": 54,
+    "SleepQuality": 6.864942831265285,
+    "BMI": 33.11295829873498,
+    "AlcoholConsumption": 12.340275850466224,
+    "DietQuality": 4.874957471522125
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 116.70056668860497,
+    "FunctionalAssessment": 7.219386183850961,
+    "MoCA": 11.5457442490776,
+    "Age": 57,
+    "SleepQuality": 6.207374260625619,
+    "BMI": 28.23468203332822,
+    "AlcoholConsumption": 5.082828753080411,
+    "DietQuality": 8.08403751773334
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 89.47389285945287,
+    "FunctionalAssessment": 1.0127368724475416,
+    "MoCA": 19.99125610504857,
+    "Age": 85,
+    "SleepQuality": 9.097164053386056,
+    "BMI": 17.698323634401376,
+    "AlcoholConsumption": 3.555348873096811,
+    "DietQuality": 3.355456293316444
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 87.02589337057627,
+    "FunctionalAssessment": 3.748258016814262,
+    "MoCA": 20.791484772879205,
+    "Age": 66,
+    "SleepQuality": 4.583043688947469,
+    "BMI": 36.2575291339991,
+    "AlcoholConsumption": 1.4963565324989814,
+    "DietQuality": 5.730243752856342
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 17.346879220814966,
+    "FunctionalAssessment": 7.967985534623159,
+    "MoCA": 13.415268869178943,
+    "Age": 66,
+    "SleepQuality": 8.131953153227625,
+    "BMI": 33.91019695116749,
+    "AlcoholConsumption": 15.58902851202256,
+    "DietQuality": 6.300120612444841
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 60.31332316856234,
+    "FunctionalAssessment": 4.76255621721256,
+    "MoCA": 17.2825922056929,
+    "Age": 70,
+    "SleepQuality": 7.409125827554552,
+    "BMI": 18.67873267453895,
+    "AlcoholConsumption": 6.587154578107947,
+    "DietQuality": 6.230472914843945
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 92.94289121209457,
+    "FunctionalAssessment": 8.239333049769883,
+    "MoCA": 16.80608333344034,
+    "Age": 53,
+    "SleepQuality": 9.44120137865452,
+    "BMI": 22.36561570699364,
+    "AlcoholConsumption": 17.468021677539586,
+    "DietQuality": 7.760717770294568
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 58.99092096333794,
+    "FunctionalAssessment": 5.104914484020905,
+    "MoCA": 19.902233615718146,
+    "Age": 67,
+    "SleepQuality": 6.060992120577725,
+    "BMI": 24.77259403457728,
+    "AlcoholConsumption": 13.941385740391004,
+    "DietQuality": 9.593309739128369
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 0.1961464389468546,
+    "FunctionalAssessment": 3.2199600257462127,
+    "MoCA": 22.32273187100948,
+    "Age": 65,
+    "SleepQuality": 5.259350630644248,
+    "BMI": 16.127726839514143,
+    "AlcoholConsumption": 14.311679940310109,
+    "DietQuality": 5.681869510467817
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 187.89356654184448,
+    "FunctionalAssessment": 8.816829302804495,
+    "MoCA": 3.907017834786191,
+    "Age": 52,
+    "SleepQuality": 7.318249329919844,
+    "BMI": 21.098805525210945,
+    "AlcoholConsumption": 14.947757758075229,
+    "DietQuality": 9.37440507266224
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 180.3787207695213,
+    "FunctionalAssessment": 4.529436081745144,
+    "MoCA": 6.155928196773603,
+    "Age": 87,
+    "SleepQuality": 5.115035629868576,
+    "BMI": 17.877309378393527,
+    "AlcoholConsumption": 3.496387983110971,
+    "DietQuality": 8.240938279130223
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 98.02741838679472,
+    "FunctionalAssessment": 7.196891568768898,
+    "MoCA": 28.144982349327968,
+    "Age": 53,
+    "SleepQuality": 6.693784094802923,
+    "BMI": 24.761580197762445,
+    "AlcoholConsumption": 7.402158391218016,
+    "DietQuality": 6.426830648809401
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 162.68452405509774,
+    "FunctionalAssessment": 6.667104308392961,
+    "MoCA": 8.673984523318953,
+    "Age": 74,
+    "SleepQuality": 6.485326319750424,
+    "BMI": 33.22937472973893,
+    "AlcoholConsumption": 10.978144088789632,
+    "DietQuality": 8.575598834523404
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 184.1608688520068,
+    "FunctionalAssessment": 0.7362650257822578,
+    "MoCA": 13.90280622776833,
+    "Age": 50,
+    "SleepQuality": 9.05002854921146,
+    "BMI": 19.846185551813928,
+    "AlcoholConsumption": 4.68586849141894,
+    "DietQuality": 4.832591325909007
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 184.19759943633431,
+    "FunctionalAssessment": 7.557680743927656,
+    "MoCA": 8.106863180105586,
+    "Age": 88,
+    "SleepQuality": 8.72401831380537,
+    "BMI": 34.00057154334208,
+    "AlcoholConsumption": 3.146231004072968,
+    "DietQuality": 8.185909260703015
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 67.25942032558642,
+    "FunctionalAssessment": 3.528816554708981,
+    "MoCA": 3.5498258204462285,
+    "Age": 77,
+    "SleepQuality": 9.70938519184936,
+    "BMI": 39.03017271256559,
+    "AlcoholConsumption": 5.042838481301848,
+    "DietQuality": 7.574862166631997
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 190.67764398610947,
+    "FunctionalAssessment": 3.9760332413258457,
+    "MoCA": 21.887749120673863,
+    "Age": 81,
+    "SleepQuality": 6.545124275038859,
+    "BMI": 29.92423071637877,
+    "AlcoholConsumption": 19.01546257600173,
+    "DietQuality": 3.2747232735295806
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 149.72225224550266,
+    "FunctionalAssessment": 9.940228815387588,
+    "MoCA": 28.969555728969294,
+    "Age": 59,
+    "SleepQuality": 5.679083338055202,
+    "BMI": 26.601859746754208,
+    "AlcoholConsumption": 4.412377107837171,
+    "DietQuality": 1.8674946087093147
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 16.570804756021758,
+    "FunctionalAssessment": 7.328814500738192,
+    "MoCA": 13.90257060517902,
+    "Age": 54,
+    "SleepQuality": 6.317032714353843,
+    "BMI": 21.248339309859663,
+    "AlcoholConsumption": 8.761404522554852,
+    "DietQuality": 6.9449571726606525
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 63.30507040456525,
+    "FunctionalAssessment": 4.266456956403701,
+    "MoCA": 18.796516679608008,
+    "Age": 73,
+    "SleepQuality": 4.409825031009273,
+    "BMI": 15.729193334464636,
+    "AlcoholConsumption": 10.656105446811086,
+    "DietQuality": 9.883612186348648
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 155.0838615106016,
+    "FunctionalAssessment": 6.4567425095818525,
+    "MoCA": 9.634265229226768,
+    "Age": 72,
+    "SleepQuality": 4.643237607288525,
+    "BMI": 25.03024707763169,
+    "AlcoholConsumption": 6.474553360808459,
+    "DietQuality": 2.96733984316167
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 84.70432278364774,
+    "FunctionalAssessment": 1.5778102217365653,
+    "MoCA": 7.064045675960495,
+    "Age": 57,
+    "SleepQuality": 4.168403582376378,
+    "BMI": 20.415304277787257,
+    "AlcoholConsumption": 6.040186351615027,
+    "DietQuality": 2.464855647951109
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 131.55345490924907,
+    "FunctionalAssessment": 9.324567028450362,
+    "MoCA": 7.183178291077646,
+    "Age": 81,
+    "SleepQuality": 8.585558091538733,
+    "BMI": 25.180539336802497,
+    "AlcoholConsumption": 16.740130879626896,
+    "DietQuality": 9.500277974326943
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 45.59569843703464,
+    "FunctionalAssessment": 6.268166635646338,
+    "MoCA": 27.974058778173088,
+    "Age": 89,
+    "SleepQuality": 4.415467957231726,
+    "BMI": 17.93404485570587,
+    "AlcoholConsumption": 5.541951240639698,
+    "DietQuality": 4.343914838685342
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 179.12595959445215,
+    "FunctionalAssessment": 5.47774721272299,
+    "MoCA": 3.980485958981027,
+    "Age": 62,
+    "SleepQuality": 9.933698747534796,
+    "BMI": 34.63731797951404,
+    "AlcoholConsumption": 4.241697483829176,
+    "DietQuality": 7.381718493941063
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 107.0116660611058,
+    "FunctionalAssessment": 3.728982746752653,
+    "MoCA": 9.169553634900948,
+    "Age": 72,
+    "SleepQuality": 9.816491202617213,
+    "BMI": 29.853708036332225,
+    "AlcoholConsumption": 5.418741531010502,
+    "DietQuality": 1.954394037007654
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 77.84867226631795,
+    "FunctionalAssessment": 0.8943445447396248,
+    "MoCA": 27.611508782724886,
+    "Age": 56,
+    "SleepQuality": 9.528094899417743,
+    "BMI": 34.093678673738985,
+    "AlcoholConsumption": 9.331037416062172,
+    "DietQuality": 4.359622121395349
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 185.01017720725912,
+    "FunctionalAssessment": 0.9500242185342878,
+    "MoCA": 22.4283382851169,
+    "Age": 70,
+    "SleepQuality": 9.424648286100634,
+    "BMI": 20.79088126722979,
+    "AlcoholConsumption": 12.427680391789666,
+    "DietQuality": 9.99586431335674
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 79.15666556939748,
+    "FunctionalAssessment": 3.403727961778401,
+    "MoCA": 18.38782163338873,
+    "Age": 53,
+    "SleepQuality": 9.293929576581252,
+    "BMI": 23.36721720008165,
+    "AlcoholConsumption": 15.941906223918686,
+    "DietQuality": 9.088645969228576
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 47.87976862115713,
+    "FunctionalAssessment": 1.4171636207317262,
+    "MoCA": 2.888678259373864,
+    "Age": 72,
+    "SleepQuality": 4.819134393178405,
+    "BMI": 39.142933678886735,
+    "AlcoholConsumption": 16.862274155064163,
+    "DietQuality": 8.289346891029751
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 139.66729209006206,
+    "FunctionalAssessment": 7.311894198804104,
+    "MoCA": 0.9251744455362676,
+    "Age": 82,
+    "SleepQuality": 8.945924679050844,
+    "BMI": 28.79686644798388,
+    "AlcoholConsumption": 8.002372383912324,
+    "DietQuality": 2.7257816661522707
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 45.17518052282646,
+    "FunctionalAssessment": 8.731286887313349,
+    "MoCA": 15.915070510647215,
+    "Age": 81,
+    "SleepQuality": 4.532377680031894,
+    "BMI": 33.17441768558163,
+    "AlcoholConsumption": 9.454704435072523,
+    "DietQuality": 2.5578062962474646
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 52.464586152775375,
+    "FunctionalAssessment": 7.235465160880286,
+    "MoCA": 14.321641010462104,
+    "Age": 88,
+    "SleepQuality": 7.203389459728571,
+    "BMI": 24.60584934039925,
+    "AlcoholConsumption": 7.529066223704637,
+    "DietQuality": 5.705398274615657
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 144.57847113272686,
+    "FunctionalAssessment": 5.706046317704181,
+    "MoCA": 17.590179083424545,
+    "Age": 65,
+    "SleepQuality": 9.106643443926108,
+    "BMI": 32.04171403527344,
+    "AlcoholConsumption": 13.053863793820987,
+    "DietQuality": 0.2290802811923631
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 192.5579702175212,
+    "FunctionalAssessment": 3.9181514836359312,
+    "MoCA": 6.12461224611236,
+    "Age": 64,
+    "SleepQuality": 6.573923401565068,
+    "BMI": 32.804023894304564,
+    "AlcoholConsumption": 0.3202910974034378,
+    "DietQuality": 2.0733549422062056
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 178.26152136421837,
+    "FunctionalAssessment": 3.438110539826653,
+    "MoCA": 10.936603626629818,
+    "Age": 80,
+    "SleepQuality": 4.170469708316643,
+    "BMI": 22.38058650336209,
+    "AlcoholConsumption": 7.293287714899552,
+    "DietQuality": 4.78482713879793
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 56.491797850845096,
+    "FunctionalAssessment": 0.5995943630500156,
+    "MoCA": 10.639023751465942,
+    "Age": 86,
+    "SleepQuality": 6.5222848093886,
+    "BMI": 31.37508518822943,
+    "AlcoholConsumption": 10.596501525502031,
+    "DietQuality": 9.104326653306408
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 178.5229088325285,
+    "FunctionalAssessment": 8.559378639727163,
+    "MoCA": 24.374645567821485,
+    "Age": 57,
+    "SleepQuality": 6.689508545750181,
+    "BMI": 33.32784564476192,
+    "AlcoholConsumption": 4.86428709892806,
+    "DietQuality": 3.0108336100610966
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 114.26074773808244,
+    "FunctionalAssessment": 2.371873577119894,
+    "MoCA": 9.769857214279304,
+    "Age": 71,
+    "SleepQuality": 4.230082250217396,
+    "BMI": 18.806416983484663,
+    "AlcoholConsumption": 16.419332641633904,
+    "DietQuality": 3.0930425359934564
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 47.76695170473106,
+    "FunctionalAssessment": 4.930095741209936,
+    "MoCA": 2.79126539065183,
+    "Age": 80,
+    "SleepQuality": 8.131482251050127,
+    "BMI": 31.197725115618983,
+    "AlcoholConsumption": 12.960301105502834,
+    "DietQuality": 9.567690004443495
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 11.385348745069484,
+    "FunctionalAssessment": 2.463497493887876,
+    "MoCA": 4.061628954024238,
+    "Age": 67,
+    "SleepQuality": 9.441132828063246,
+    "BMI": 17.630099524877455,
+    "AlcoholConsumption": 7.535889162075255,
+    "DietQuality": 9.575229024627802
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 138.5399315466501,
+    "FunctionalAssessment": 1.188470613564694,
+    "MoCA": 8.510028349882488,
+    "Age": 54,
+    "SleepQuality": 6.426683073388242,
+    "BMI": 15.36403627867216,
+    "AlcoholConsumption": 13.143702180895078,
+    "DietQuality": 6.568416513930924
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 47.63170873661418,
+    "FunctionalAssessment": 0.8255498580911436,
+    "MoCA": 19.69725295064402,
+    "Age": 88,
+    "SleepQuality": 9.274079754201622,
+    "BMI": 36.065308796228905,
+    "AlcoholConsumption": 9.349808668223377,
+    "DietQuality": 6.211694471616786
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 159.39915645151768,
+    "FunctionalAssessment": 5.720938707005666,
+    "MoCA": 7.517159887782185,
+    "Age": 76,
+    "SleepQuality": 7.695623451281884,
+    "BMI": 18.95172100149906,
+    "AlcoholConsumption": 14.598165668855575,
+    "DietQuality": 4.362782919114948
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 34.817388931111495,
+    "FunctionalAssessment": 0.5724682804079528,
+    "MoCA": 5.812826957656119,
+    "Age": 75,
+    "SleepQuality": 6.515621280212631,
+    "BMI": 30.277915290674176,
+    "AlcoholConsumption": 18.141186802181704,
+    "DietQuality": 0.714755336691103
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 75.5537957058997,
+    "FunctionalAssessment": 5.138167035988937,
+    "MoCA": 11.236294533203464,
+    "Age": 80,
+    "SleepQuality": 4.520921917626271,
+    "BMI": 16.71494740491426,
+    "AlcoholConsumption": 6.422007346984189,
+    "DietQuality": 7.510933314018807
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 38.951675198119055,
+    "FunctionalAssessment": 4.166388400725203,
+    "MoCA": 26.632182990495107,
+    "Age": 71,
+    "SleepQuality": 8.470413998140724,
+    "BMI": 33.6585711834269,
+    "AlcoholConsumption": 0.4992404649636905,
+    "DietQuality": 9.501836984215112
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 119.05080628013673,
+    "FunctionalAssessment": 8.86143152368833,
+    "MoCA": 21.11855203466108,
+    "Age": 73,
+    "SleepQuality": 6.331628377988556,
+    "BMI": 30.96817428620986,
+    "AlcoholConsumption": 10.208908960601338,
+    "DietQuality": 7.134225701753102
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 178.0211135837716,
+    "FunctionalAssessment": 7.823221454622418,
+    "MoCA": 28.30764676910143,
+    "Age": 88,
+    "SleepQuality": 6.195415065840187,
+    "BMI": 16.959155021820514,
+    "AlcoholConsumption": 9.164973617296742,
+    "DietQuality": 6.651035136435079
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 132.24665203932105,
+    "FunctionalAssessment": 6.370230141589214,
+    "MoCA": 28.45464541065742,
+    "Age": 51,
+    "SleepQuality": 7.977422250212719,
+    "BMI": 35.32276476017317,
+    "AlcoholConsumption": 19.17877552844616,
+    "DietQuality": 9.438164134068955
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 76.04394868159027,
+    "FunctionalAssessment": 1.804846479192268,
+    "MoCA": 0.539847801395178,
+    "Age": 62,
+    "SleepQuality": 4.776410066784574,
+    "BMI": 26.483634165212298,
+    "AlcoholConsumption": 0.9896958715179482,
+    "DietQuality": 0.2003069015797332
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 187.4371591907674,
+    "FunctionalAssessment": 8.21684507847118,
+    "MoCA": 27.62069927777289,
+    "Age": 85,
+    "SleepQuality": 4.668746509546135,
+    "BMI": 19.514947117084283,
+    "AlcoholConsumption": 14.13537481493976,
+    "DietQuality": 2.7787807479952957
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 74.56229082344655,
+    "FunctionalAssessment": 4.618767545902229,
+    "MoCA": 3.573805316616505,
+    "Age": 72,
+    "SleepQuality": 6.491461549793492,
+    "BMI": 33.50234654228633,
+    "AlcoholConsumption": 13.96331180107197,
+    "DietQuality": 8.977295581376678
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 34.70373575058362,
+    "FunctionalAssessment": 0.3328670971830083,
+    "MoCA": 27.04605618891766,
+    "Age": 76,
+    "SleepQuality": 9.0941494016087,
+    "BMI": 37.266169507353744,
+    "AlcoholConsumption": 17.131831890260095,
+    "DietQuality": 5.353954839980244
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 104.622144499645,
+    "FunctionalAssessment": 8.569097649885256,
+    "MoCA": 23.92215434507966,
+    "Age": 54,
+    "SleepQuality": 6.534972111959823,
+    "BMI": 27.06662910585242,
+    "AlcoholConsumption": 14.06417115580808,
+    "DietQuality": 5.566855577341276
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 39.97552031090433,
+    "FunctionalAssessment": 6.417172435894458,
+    "MoCA": 14.331112980020595,
+    "Age": 67,
+    "SleepQuality": 4.114072556783637,
+    "BMI": 32.57522897105984,
+    "AlcoholConsumption": 8.529659319906148,
+    "DietQuality": 6.449589545463052
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 155.77023909294925,
+    "FunctionalAssessment": 2.4287448747538454,
+    "MoCA": 17.14565860414266,
+    "Age": 74,
+    "SleepQuality": 4.161358427706709,
+    "BMI": 33.101267629398905,
+    "AlcoholConsumption": 15.87659791997872,
+    "DietQuality": 9.717334700014536
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 143.48388448533507,
+    "FunctionalAssessment": 5.532445941299989,
+    "MoCA": 20.19089395969942,
+    "Age": 85,
+    "SleepQuality": 7.493791420483248,
+    "BMI": 26.35939827783674,
+    "AlcoholConsumption": 7.818704720544851,
+    "DietQuality": 3.633975831410159
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 88.00519751796575,
+    "FunctionalAssessment": 5.344246354278254,
+    "MoCA": 29.533071254593928,
+    "Age": 86,
+    "SleepQuality": 7.415643911060073,
+    "BMI": 24.057777268782623,
+    "AlcoholConsumption": 12.765713210688862,
+    "DietQuality": 2.416854795731147
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 79.19046733161859,
+    "FunctionalAssessment": 4.111972336724687,
+    "MoCA": 27.328224832009838,
+    "Age": 88,
+    "SleepQuality": 7.566577954022627,
+    "BMI": 28.74627980369652,
+    "AlcoholConsumption": 12.050356652987944,
+    "DietQuality": 4.6604881676416845
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 37.33046303561136,
+    "FunctionalAssessment": 6.434960134147797,
+    "MoCA": 22.684872255722187,
+    "Age": 54,
+    "SleepQuality": 6.764476997569622,
+    "BMI": 20.23525124634773,
+    "AlcoholConsumption": 12.995403317313258,
+    "DietQuality": 4.430737751979992
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 49.072081193410696,
+    "FunctionalAssessment": 1.9922797353110435,
+    "MoCA": 4.802851038028287,
+    "Age": 89,
+    "SleepQuality": 6.770665683573613,
+    "BMI": 16.107208012896745,
+    "AlcoholConsumption": 1.0938292240905745,
+    "DietQuality": 1.7466375224548714
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 3.9570937822637857,
+    "FunctionalAssessment": 1.8653210083585403,
+    "MoCA": 11.706996815810154,
+    "Age": 73,
+    "SleepQuality": 6.56464106883772,
+    "BMI": 39.31895109436984,
+    "AlcoholConsumption": 19.00585673701974,
+    "DietQuality": 8.702105035690419
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 149.92275940688165,
+    "FunctionalAssessment": 5.418899242903136,
+    "MoCA": 5.3742509849019,
+    "Age": 79,
+    "SleepQuality": 5.3921912666496326,
+    "BMI": 25.10066849640127,
+    "AlcoholConsumption": 3.1365591741549537,
+    "DietQuality": 3.489000365248165
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 95.50858438595678,
+    "FunctionalAssessment": 4.828595327528536,
+    "MoCA": 14.296020255872634,
+    "Age": 54,
+    "SleepQuality": 4.391907708649427,
+    "BMI": 32.69920874444984,
+    "AlcoholConsumption": 8.543710019252444,
+    "DietQuality": 9.25040556845554
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 114.42304098844936,
+    "FunctionalAssessment": 7.633154427181998,
+    "MoCA": 17.701314936528483,
+    "Age": 62,
+    "SleepQuality": 4.200719864280077,
+    "BMI": 32.77633209826102,
+    "AlcoholConsumption": 0.9308743098448892,
+    "DietQuality": 1.8848960876136944
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 89.49172129792576,
+    "FunctionalAssessment": 0.7274799615353655,
+    "MoCA": 19.028741019412564,
+    "Age": 80,
+    "SleepQuality": 8.74529796689535,
+    "BMI": 25.95340822564298,
+    "AlcoholConsumption": 7.637324527532547,
+    "DietQuality": 5.122982714267619
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 106.71441909762711,
+    "FunctionalAssessment": 3.2255165782979223,
+    "MoCA": 22.36196078426274,
+    "Age": 52,
+    "SleepQuality": 7.897248881603057,
+    "BMI": 25.88974556575136,
+    "AlcoholConsumption": 0.086402537410497,
+    "DietQuality": 0.7550208089170718
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 75.31534047583723,
+    "FunctionalAssessment": 8.422815059063547,
+    "MoCA": 17.6197738412789,
+    "Age": 71,
+    "SleepQuality": 8.953860699761893,
+    "BMI": 23.75241606746232,
+    "AlcoholConsumption": 18.498516970662024,
+    "DietQuality": 3.8867456871119854
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 171.08076235752117,
+    "FunctionalAssessment": 1.2114835329108709,
+    "MoCA": 22.060829665879584,
+    "Age": 62,
+    "SleepQuality": 9.487544940823952,
+    "BMI": 26.60536478911758,
+    "AlcoholConsumption": 12.713685490756504,
+    "DietQuality": 3.828084670214642
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 189.0937544789014,
+    "FunctionalAssessment": 6.803735831243637,
+    "MoCA": 6.753129212139254,
+    "Age": 77,
+    "SleepQuality": 9.188778696430749,
+    "BMI": 27.710550446999896,
+    "AlcoholConsumption": 18.258105164065597,
+    "DietQuality": 7.109461503013041
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 14.343900179138512,
+    "FunctionalAssessment": 2.4792438027348727,
+    "MoCA": 6.375665906046041,
+    "Age": 69,
+    "SleepQuality": 4.111502406980231,
+    "BMI": 18.17723296042358,
+    "AlcoholConsumption": 3.098186039312638,
+    "DietQuality": 0.8203159489711531
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 84.83565070309575,
+    "FunctionalAssessment": 9.419093456823028,
+    "MoCA": 21.872350118827512,
+    "Age": 59,
+    "SleepQuality": 9.573383368145963,
+    "BMI": 34.74214408511534,
+    "AlcoholConsumption": 8.63250750784977,
+    "DietQuality": 6.311305610802612
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 172.97452531542385,
+    "FunctionalAssessment": 7.469821555425904,
+    "MoCA": 15.902790973729664,
+    "Age": 52,
+    "SleepQuality": 6.723782500082002,
+    "BMI": 15.91353642958089,
+    "AlcoholConsumption": 19.054045586067524,
+    "DietQuality": 9.965088264204145
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 159.5518569918757,
+    "FunctionalAssessment": 4.871168999026225,
+    "MoCA": 11.781820805155077,
+    "Age": 68,
+    "SleepQuality": 6.935574974505236,
+    "BMI": 34.83527795123355,
+    "AlcoholConsumption": 9.518725786790164,
+    "DietQuality": 6.801971413095892
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 150.5711662432034,
+    "FunctionalAssessment": 2.1541219169843,
+    "MoCA": 2.801544103182134,
+    "Age": 71,
+    "SleepQuality": 6.45225132876285,
+    "BMI": 21.179511459816347,
+    "AlcoholConsumption": 12.705705782706293,
+    "DietQuality": 0.4037400865805307
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 76.77710079154716,
+    "FunctionalAssessment": 3.296048108200128,
+    "MoCA": 12.681209057993058,
+    "Age": 65,
+    "SleepQuality": 8.96774466339376,
+    "BMI": 22.89227056912097,
+    "AlcoholConsumption": 11.035712767540105,
+    "DietQuality": 6.082329069914188
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 152.12297902903669,
+    "FunctionalAssessment": 2.5709204156517504,
+    "MoCA": 14.930629958552853,
+    "Age": 87,
+    "SleepQuality": 5.519374981993711,
+    "BMI": 27.72012237228176,
+    "AlcoholConsumption": 0.2535114450016573,
+    "DietQuality": 6.1711685596633
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 141.6754707291726,
+    "FunctionalAssessment": 9.881679360023114,
+    "MoCA": 8.011481653062667,
+    "Age": 80,
+    "SleepQuality": 8.412851928853442,
+    "BMI": 39.298202300511285,
+    "AlcoholConsumption": 5.502418422849516,
+    "DietQuality": 3.9626187861210234
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 2.9224807016471974,
+    "FunctionalAssessment": 6.552726853407971,
+    "MoCA": 28.648144785052693,
+    "Age": 63,
+    "SleepQuality": 4.860989780635553,
+    "BMI": 20.278002267860398,
+    "AlcoholConsumption": 18.431779233661366,
+    "DietQuality": 0.8721297858917254
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 8.530573725664045,
+    "FunctionalAssessment": 1.630478792478407,
+    "MoCA": 10.860429241961404,
+    "Age": 59,
+    "SleepQuality": 8.818693242266082,
+    "BMI": 23.46021521557376,
+    "AlcoholConsumption": 6.223928982357851,
+    "DietQuality": 6.3806608246541465
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 33.93613301128755,
+    "FunctionalAssessment": 7.024131636566036,
+    "MoCA": 11.929325403856922,
+    "Age": 86,
+    "SleepQuality": 8.61742819855855,
+    "BMI": 18.57474280824055,
+    "AlcoholConsumption": 4.350942764522716,
+    "DietQuality": 0.8681229240028387
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 51.31314049433621,
+    "FunctionalAssessment": 0.9251081692876316,
+    "MoCA": 11.452239344332794,
+    "Age": 74,
+    "SleepQuality": 8.902683194035024,
+    "BMI": 33.48354941924657,
+    "AlcoholConsumption": 1.3191260619265566,
+    "DietQuality": 1.371223921186182
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 23.840454771066643,
+    "FunctionalAssessment": 2.4117000998777858,
+    "MoCA": 1.373444353457468,
+    "Age": 76,
+    "SleepQuality": 9.999820998517183,
+    "BMI": 15.651873222393446,
+    "AlcoholConsumption": 13.415473427178952,
+    "DietQuality": 5.479656742526044
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 114.67533802539866,
+    "FunctionalAssessment": 1.5284543449217158,
+    "MoCA": 17.142027683070644,
+    "Age": 54,
+    "SleepQuality": 5.785825040599489,
+    "BMI": 15.821249730098703,
+    "AlcoholConsumption": 12.483814850560686,
+    "DietQuality": 6.461986599557672
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 138.17960876439304,
+    "FunctionalAssessment": 6.605878838703138,
+    "MoCA": 12.52612127334652,
+    "Age": 76,
+    "SleepQuality": 9.452018370599731,
+    "BMI": 37.69483517164984,
+    "AlcoholConsumption": 16.171020702616275,
+    "DietQuality": 9.22733834833999
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 115.24047907502676,
+    "FunctionalAssessment": 7.066547167283346,
+    "MoCA": 12.35022793184474,
+    "Age": 89,
+    "SleepQuality": 9.368144177062655,
+    "BMI": 36.931186819253504,
+    "AlcoholConsumption": 3.990710163619047,
+    "DietQuality": 0.5860094198241272
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 112.10648238396293,
+    "FunctionalAssessment": 8.199145570595238,
+    "MoCA": 2.991208102354922,
+    "Age": 77,
+    "SleepQuality": 8.673002179736386,
+    "BMI": 34.80058567300838,
+    "AlcoholConsumption": 6.529408794550573,
+    "DietQuality": 3.8227488977236135
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 68.21100894021741,
+    "FunctionalAssessment": 9.84715909856614,
+    "MoCA": 3.3835146448174624,
+    "Age": 84,
+    "SleepQuality": 8.814403215050994,
+    "BMI": 35.803348631113515,
+    "AlcoholConsumption": 10.563378063405429,
+    "DietQuality": 0.6706047005432303
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 164.15855512416812,
+    "FunctionalAssessment": 4.579020529970038,
+    "MoCA": 18.026472419323863,
+    "Age": 82,
+    "SleepQuality": 5.947225419508444,
+    "BMI": 25.272982513381542,
+    "AlcoholConsumption": 2.352269849750155,
+    "DietQuality": 5.818286468874701
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 187.53856844001135,
+    "FunctionalAssessment": 8.326891508934795,
+    "MoCA": 1.7508947180070034,
+    "Age": 58,
+    "SleepQuality": 9.098206532532483,
+    "BMI": 17.326333248318292,
+    "AlcoholConsumption": 13.962215193327904,
+    "DietQuality": 0.1654355234359927
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 198.8948004485215,
+    "FunctionalAssessment": 7.253822779315412,
+    "MoCA": 0.2384455415455311,
+    "Age": 87,
+    "SleepQuality": 4.79400101268323,
+    "BMI": 24.757954181419368,
+    "AlcoholConsumption": 3.034351347686506,
+    "DietQuality": 2.9243266515205613
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 95.57838027534936,
+    "FunctionalAssessment": 7.624895339551193,
+    "MoCA": 27.53633655390477,
+    "Age": 83,
+    "SleepQuality": 5.5661656222894,
+    "BMI": 39.076782325581306,
+    "AlcoholConsumption": 15.035645550934213,
+    "DietQuality": 4.47118688506411
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 99.5374264709679,
+    "FunctionalAssessment": 4.613511340336647,
+    "MoCA": 5.181416815186925,
+    "Age": 61,
+    "SleepQuality": 9.181090444017569,
+    "BMI": 15.520582035737576,
+    "AlcoholConsumption": 4.724392830705726,
+    "DietQuality": 2.219255360752801
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 95.29795124821334,
+    "FunctionalAssessment": 7.963328126134753,
+    "MoCA": 11.35011182892142,
+    "Age": 61,
+    "SleepQuality": 8.228439356537974,
+    "BMI": 39.18043883608473,
+    "AlcoholConsumption": 4.972234558175932,
+    "DietQuality": 5.902255827485385
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 181.57574155579664,
+    "FunctionalAssessment": 5.304253965294813,
+    "MoCA": 9.576284946032198,
+    "Age": 84,
+    "SleepQuality": 8.405451856108034,
+    "BMI": 31.142924562851764,
+    "AlcoholConsumption": 15.777532437589064,
+    "DietQuality": 3.289211634808723
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 183.6960671176709,
+    "FunctionalAssessment": 9.603439522199814,
+    "MoCA": 6.511750976202037,
+    "Age": 61,
+    "SleepQuality": 5.073551489503055,
+    "BMI": 31.294020591911497,
+    "AlcoholConsumption": 13.310879502437096,
+    "DietQuality": 4.655471673731438
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 159.873913313565,
+    "FunctionalAssessment": 0.1880392748646953,
+    "MoCA": 1.7869365080892874,
+    "Age": 53,
+    "SleepQuality": 5.5130753227740055,
+    "BMI": 36.91516897568921,
+    "AlcoholConsumption": 11.534450480347443,
+    "DietQuality": 8.965845978827254
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 66.59200975011613,
+    "FunctionalAssessment": 1.8932224778472573,
+    "MoCA": 7.343448591372282,
+    "Age": 66,
+    "SleepQuality": 6.529298865408135,
+    "BMI": 27.501366764349868,
+    "AlcoholConsumption": 11.97614823793315,
+    "DietQuality": 2.7569602471638954
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 193.61827967619536,
+    "FunctionalAssessment": 6.819208600096216,
+    "MoCA": 9.40162613946744,
+    "Age": 62,
+    "SleepQuality": 8.278352190904602,
+    "BMI": 29.61571224147261,
+    "AlcoholConsumption": 8.094116319476676,
+    "DietQuality": 4.669510361935167
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 189.3575742253404,
+    "FunctionalAssessment": 0.0015051231673135,
+    "MoCA": 0.8030882459315869,
+    "Age": 77,
+    "SleepQuality": 9.988640959461636,
+    "BMI": 30.24083668299728,
+    "AlcoholConsumption": 14.02816024103865,
+    "DietQuality": 7.887049699772854
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 5.079975415017433,
+    "FunctionalAssessment": 1.942126053438401,
+    "MoCA": 10.274802409259674,
+    "Age": 51,
+    "SleepQuality": 7.340494045456345,
+    "BMI": 35.23359285341965,
+    "AlcoholConsumption": 11.942424628854852,
+    "DietQuality": 3.287599588359732
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 159.68368553723502,
+    "FunctionalAssessment": 0.7437027215455827,
+    "MoCA": 14.430389566945417,
+    "Age": 65,
+    "SleepQuality": 4.967966735255559,
+    "BMI": 24.980514736994643,
+    "AlcoholConsumption": 2.745491467853567,
+    "DietQuality": 9.563753533166189
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 33.18645349373838,
+    "FunctionalAssessment": 8.016756519684044,
+    "MoCA": 2.137549659947026,
+    "Age": 64,
+    "SleepQuality": 8.52361366937531,
+    "BMI": 29.677244668383164,
+    "AlcoholConsumption": 5.308332767129171,
+    "DietQuality": 0.2881758816882573
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 118.39188583139368,
+    "FunctionalAssessment": 8.140896226472721,
+    "MoCA": 15.410077290217323,
+    "Age": 54,
+    "SleepQuality": 4.2174326712581625,
+    "BMI": 34.54080144831518,
+    "AlcoholConsumption": 13.472735829708837,
+    "DietQuality": 7.199155521849352
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 39.80862113397443,
+    "FunctionalAssessment": 2.523730196475662,
+    "MoCA": 17.582318906048947,
+    "Age": 50,
+    "SleepQuality": 7.51941333808832,
+    "BMI": 25.44744395701601,
+    "AlcoholConsumption": 15.727993291718194,
+    "DietQuality": 5.499480636676194
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 161.57090351146084,
+    "FunctionalAssessment": 4.073588519626078,
+    "MoCA": 10.727256327844907,
+    "Age": 54,
+    "SleepQuality": 9.499345280544894,
+    "BMI": 16.75589579994797,
+    "AlcoholConsumption": 12.468685624260464,
+    "DietQuality": 9.875152034157948
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 169.01972060992202,
+    "FunctionalAssessment": 6.828578650350126,
+    "MoCA": 23.52097780681736,
+    "Age": 66,
+    "SleepQuality": 6.882927042892401,
+    "BMI": 16.35792191183895,
+    "AlcoholConsumption": 3.0527006778889687,
+    "DietQuality": 4.866856543817537
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 3.466322721877964,
+    "FunctionalAssessment": 6.308508057926298,
+    "MoCA": 26.48724787531855,
+    "Age": 88,
+    "SleepQuality": 9.662723018372729,
+    "BMI": 22.00313000204857,
+    "AlcoholConsumption": 17.872639734722874,
+    "DietQuality": 0.4500142597930445
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 24.403172690325032,
+    "FunctionalAssessment": 1.9807483977382776,
+    "MoCA": 23.407982638931195,
+    "Age": 60,
+    "SleepQuality": 9.610131485905626,
+    "BMI": 20.767848693473603,
+    "AlcoholConsumption": 1.831881102304218,
+    "DietQuality": 9.568685836048736
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 33.25638900416946,
+    "FunctionalAssessment": 8.456116275376647,
+    "MoCA": 24.93427588197591,
+    "Age": 57,
+    "SleepQuality": 4.451533220575451,
+    "BMI": 32.711812031325465,
+    "AlcoholConsumption": 19.65640046326893,
+    "DietQuality": 7.017208463407903
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 52.325122407374174,
+    "FunctionalAssessment": 7.449677181233502,
+    "MoCA": 9.526336476578196,
+    "Age": 80,
+    "SleepQuality": 7.557744414610322,
+    "BMI": 21.4757600248063,
+    "AlcoholConsumption": 14.138897054556177,
+    "DietQuality": 2.0913927608460305
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 138.59974592566934,
+    "FunctionalAssessment": 8.175935355778643,
+    "MoCA": 8.718286002781886,
+    "Age": 72,
+    "SleepQuality": 5.788485133910823,
+    "BMI": 32.865398182108734,
+    "AlcoholConsumption": 18.16398084820425,
+    "DietQuality": 0.4015429962349515
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 121.9321847567222,
+    "FunctionalAssessment": 9.48252917940838,
+    "MoCA": 9.913689712554593,
+    "Age": 52,
+    "SleepQuality": 8.739626780030449,
+    "BMI": 25.2695457795301,
+    "AlcoholConsumption": 6.544829476349808,
+    "DietQuality": 6.888471152247862
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 107.91877451384669,
+    "FunctionalAssessment": 6.751523844252111,
+    "MoCA": 8.079498082862031,
+    "Age": 60,
+    "SleepQuality": 4.598527144125381,
+    "BMI": 39.950131573410985,
+    "AlcoholConsumption": 12.31769152505792,
+    "DietQuality": 7.146234811553458
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 17.791312064614306,
+    "FunctionalAssessment": 0.6665148027607826,
+    "MoCA": 28.58237804761589,
+    "Age": 73,
+    "SleepQuality": 6.445293210502592,
+    "BMI": 28.14595390478486,
+    "AlcoholConsumption": 4.057136172598423,
+    "DietQuality": 8.664137361031381
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 20.990005976215727,
+    "FunctionalAssessment": 4.370612113448712,
+    "MoCA": 20.920584597362065,
+    "Age": 77,
+    "SleepQuality": 5.7870146563683695,
+    "BMI": 39.59216760723487,
+    "AlcoholConsumption": 2.2702920312730246,
+    "DietQuality": 7.030465203914643
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 160.64151611700274,
+    "FunctionalAssessment": 3.143323822305705,
+    "MoCA": 16.991872716564906,
+    "Age": 50,
+    "SleepQuality": 7.630026470422244,
+    "BMI": 33.86570223027753,
+    "AlcoholConsumption": 9.846466077404806,
+    "DietQuality": 5.939685911089937
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 139.24367312999723,
+    "FunctionalAssessment": 9.390386585141073,
+    "MoCA": 22.00909294949788,
+    "Age": 62,
+    "SleepQuality": 6.163703438093117,
+    "BMI": 27.32380639263725,
+    "AlcoholConsumption": 0.0022279553989323,
+    "DietQuality": 6.150256415482276
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 135.53394635490795,
+    "FunctionalAssessment": 5.364907138234272,
+    "MoCA": 27.604508497465424,
+    "Age": 69,
+    "SleepQuality": 5.864451520620591,
+    "BMI": 18.81917396374593,
+    "AlcoholConsumption": 14.028477971904568,
+    "DietQuality": 3.124353018186532
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 6.242907248719,
+    "FunctionalAssessment": 5.627526902157464,
+    "MoCA": 21.021656614014606,
+    "Age": 83,
+    "SleepQuality": 4.690264954234248,
+    "BMI": 32.537609316819015,
+    "AlcoholConsumption": 9.633576804365411,
+    "DietQuality": 6.638577782682376
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 73.74251884776493,
+    "FunctionalAssessment": 9.966954124483305,
+    "MoCA": 23.370094555448315,
+    "Age": 50,
+    "SleepQuality": 6.919847427185918,
+    "BMI": 26.991157425447767,
+    "AlcoholConsumption": 14.000769248826302,
+    "DietQuality": 8.52358341421631
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 2.360302104903581,
+    "FunctionalAssessment": 0.8373661769854357,
+    "MoCA": 3.1829451241640507,
+    "Age": 69,
+    "SleepQuality": 5.4115996332764125,
+    "BMI": 30.35252106083689,
+    "AlcoholConsumption": 9.452350545166958,
+    "DietQuality": 9.96475094867036
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 127.95344833680474,
+    "FunctionalAssessment": 1.3057147984589037,
+    "MoCA": 3.0677963410124507,
+    "Age": 55,
+    "SleepQuality": 9.178343985416271,
+    "BMI": 16.453732753534016,
+    "AlcoholConsumption": 11.652652656208744,
+    "DietQuality": 7.695021133295423
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 74.43577790954117,
+    "FunctionalAssessment": 1.315211998617608,
+    "MoCA": 0.6243356280366841,
+    "Age": 88,
+    "SleepQuality": 6.023117882310586,
+    "BMI": 34.860669901143,
+    "AlcoholConsumption": 11.114602550940184,
+    "DietQuality": 9.270529329182304
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 119.6822176600438,
+    "FunctionalAssessment": 8.500423406801467,
+    "MoCA": 6.491520500741835,
+    "Age": 64,
+    "SleepQuality": 8.363486356133402,
+    "BMI": 31.76252350075567,
+    "AlcoholConsumption": 2.083098496124418,
+    "DietQuality": 2.01953547349382
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 90.730810142399,
+    "FunctionalAssessment": 8.036442521803377,
+    "MoCA": 11.495745810305722,
+    "Age": 73,
+    "SleepQuality": 5.81406297991793,
+    "BMI": 21.88268893186895,
+    "AlcoholConsumption": 1.1122494848485154,
+    "DietQuality": 8.38134161612093
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 131.8764109320439,
+    "FunctionalAssessment": 1.0475326123944697,
+    "MoCA": 28.78521664569736,
+    "Age": 60,
+    "SleepQuality": 9.319023485612256,
+    "BMI": 39.54187881503152,
+    "AlcoholConsumption": 11.167423534938155,
+    "DietQuality": 9.63263781046749
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 143.64058798975697,
+    "FunctionalAssessment": 9.932190291372804,
+    "MoCA": 4.207293302426923,
+    "Age": 74,
+    "SleepQuality": 8.809948135248689,
+    "BMI": 15.228937942390958,
+    "AlcoholConsumption": 4.247604589034999,
+    "DietQuality": 5.798658986878168
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 64.05950550321634,
+    "FunctionalAssessment": 3.8801917255893823,
+    "MoCA": 26.27137029965381,
+    "Age": 73,
+    "SleepQuality": 7.091923944655125,
+    "BMI": 20.666414534964527,
+    "AlcoholConsumption": 19.27641046992105,
+    "DietQuality": 5.723416024380131
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 36.20985505013303,
+    "FunctionalAssessment": 2.415890361083093,
+    "MoCA": 25.04866445142018,
+    "Age": 51,
+    "SleepQuality": 5.400160561454865,
+    "BMI": 17.094233105155332,
+    "AlcoholConsumption": 8.852092958366345,
+    "DietQuality": 7.1497317688890325
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 90.80803272231516,
+    "FunctionalAssessment": 1.5128685936054076,
+    "MoCA": 18.333368994409103,
+    "Age": 50,
+    "SleepQuality": 4.526908410988833,
+    "BMI": 19.530418724938404,
+    "AlcoholConsumption": 11.004087795519492,
+    "DietQuality": 1.9414948265010843
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 18.149174273560543,
+    "FunctionalAssessment": 2.8898046702071536,
+    "MoCA": 24.369630428851305,
+    "Age": 71,
+    "SleepQuality": 9.771241785341772,
+    "BMI": 24.85337927896776,
+    "AlcoholConsumption": 19.24973862665477,
+    "DietQuality": 8.230406676752597
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 47.28438126482192,
+    "FunctionalAssessment": 0.2213088032169707,
+    "MoCA": 24.14691378929796,
+    "Age": 51,
+    "SleepQuality": 6.435592146140363,
+    "BMI": 29.40471104826875,
+    "AlcoholConsumption": 11.185141559952994,
+    "DietQuality": 4.523213762731007
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 117.25016904718434,
+    "FunctionalAssessment": 0.0248959725634256,
+    "MoCA": 18.78381749787068,
+    "Age": 72,
+    "SleepQuality": 5.8616246219703285,
+    "BMI": 35.933682751561385,
+    "AlcoholConsumption": 7.069949225175276,
+    "DietQuality": 4.064718292628954
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 167.215656858965,
+    "FunctionalAssessment": 9.391580012449772,
+    "MoCA": 16.749931598723638,
+    "Age": 65,
+    "SleepQuality": 9.986890430198825,
+    "BMI": 33.174065540135786,
+    "AlcoholConsumption": 2.719491359432136,
+    "DietQuality": 8.220684539140118
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 191.4616458009929,
+    "FunctionalAssessment": 4.555112019077969,
+    "MoCA": 10.423659530537645,
+    "Age": 57,
+    "SleepQuality": 8.217048150110504,
+    "BMI": 17.99136408675737,
+    "AlcoholConsumption": 17.581423631705846,
+    "DietQuality": 1.4646661378656178
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 165.70591180374117,
+    "FunctionalAssessment": 2.4547036825808144,
+    "MoCA": 8.196903141775126,
+    "Age": 65,
+    "SleepQuality": 5.296572656352764,
+    "BMI": 20.593929823398163,
+    "AlcoholConsumption": 15.91494656629383,
+    "DietQuality": 7.687002082814126
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 188.9634189702047,
+    "FunctionalAssessment": 8.019935852385014,
+    "MoCA": 8.769640857204976,
+    "Age": 87,
+    "SleepQuality": 9.65447004107795,
+    "BMI": 32.09805848125204,
+    "AlcoholConsumption": 7.565958698680461,
+    "DietQuality": 9.962242492700293
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 89.00981175978917,
+    "FunctionalAssessment": 1.088433445901784,
+    "MoCA": 9.922515592490916,
+    "Age": 79,
+    "SleepQuality": 6.846310917190634,
+    "BMI": 17.785755052963207,
+    "AlcoholConsumption": 11.945860204066738,
+    "DietQuality": 9.214227649290338
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 6.911066055836883,
+    "FunctionalAssessment": 3.7996066057618014,
+    "MoCA": 27.642115603550515,
+    "Age": 66,
+    "SleepQuality": 9.435921880539327,
+    "BMI": 19.79286055894866,
+    "AlcoholConsumption": 4.619656478679133,
+    "DietQuality": 1.3415576628012935
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 194.69526827112784,
+    "FunctionalAssessment": 1.4534613640826732,
+    "MoCA": 4.699093847676768,
+    "Age": 80,
+    "SleepQuality": 6.770999310907548,
+    "BMI": 38.8340130221297,
+    "AlcoholConsumption": 6.52045739034242,
+    "DietQuality": 3.954682153495152
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 115.69344515240704,
+    "FunctionalAssessment": 2.537989767347877,
+    "MoCA": 25.302929325984923,
+    "Age": 83,
+    "SleepQuality": 8.818375084533203,
+    "BMI": 20.193353572661323,
+    "AlcoholConsumption": 12.719205640115058,
+    "DietQuality": 4.542182318429269
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 131.9404450594254,
+    "FunctionalAssessment": 3.3455651273641385,
+    "MoCA": 24.21385070590908,
+    "Age": 61,
+    "SleepQuality": 7.0510473666528535,
+    "BMI": 21.342875531270643,
+    "AlcoholConsumption": 4.222304057512094,
+    "DietQuality": 0.7227004274166804
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 82.73103576000474,
+    "FunctionalAssessment": 9.736427461831092,
+    "MoCA": 25.411267813394637,
+    "Age": 69,
+    "SleepQuality": 6.965165602048432,
+    "BMI": 22.68688914913916,
+    "AlcoholConsumption": 7.551521538547751,
+    "DietQuality": 4.659909800444395
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 132.49534326587275,
+    "FunctionalAssessment": 4.388230594411463,
+    "MoCA": 14.377196216678993,
+    "Age": 83,
+    "SleepQuality": 4.167125137998567,
+    "BMI": 15.624511315929066,
+    "AlcoholConsumption": 17.474162344583966,
+    "DietQuality": 8.750985786655983
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 35.65651077770531,
+    "FunctionalAssessment": 2.4549248431848025,
+    "MoCA": 19.790004188063595,
+    "Age": 59,
+    "SleepQuality": 9.18141508795538,
+    "BMI": 38.249838978072816,
+    "AlcoholConsumption": 2.4186898928470857,
+    "DietQuality": 2.6606587084493727
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 112.0745651135596,
+    "FunctionalAssessment": 9.31828610315278,
+    "MoCA": 18.884537820462494,
+    "Age": 58,
+    "SleepQuality": 7.109746424308794,
+    "BMI": 24.657936076362414,
+    "AlcoholConsumption": 9.979378372411178,
+    "DietQuality": 0.0111209578042204
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 139.09226041614326,
+    "FunctionalAssessment": 6.040771914673298,
+    "MoCA": 21.6703097141876,
+    "Age": 58,
+    "SleepQuality": 4.666402861070612,
+    "BMI": 27.16753518686262,
+    "AlcoholConsumption": 16.12404875976333,
+    "DietQuality": 6.1574736463454895
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 153.6387354127259,
+    "FunctionalAssessment": 6.064753681201221,
+    "MoCA": 27.68811436917542,
+    "Age": 69,
+    "SleepQuality": 6.6822990370378905,
+    "BMI": 18.03471727124852,
+    "AlcoholConsumption": 13.075881685109556,
+    "DietQuality": 9.901740497767122
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 197.7986294146918,
+    "FunctionalAssessment": 2.420405363877616,
+    "MoCA": 27.440638945643663,
+    "Age": 83,
+    "SleepQuality": 9.41551404700168,
+    "BMI": 37.40773684717031,
+    "AlcoholConsumption": 7.222855871871612,
+    "DietQuality": 9.629289338232478
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 118.53863977144051,
+    "FunctionalAssessment": 4.005019493081391,
+    "MoCA": 27.216053656752763,
+    "Age": 53,
+    "SleepQuality": 6.948152979450549,
+    "BMI": 26.354590515392783,
+    "AlcoholConsumption": 1.2431340553971837,
+    "DietQuality": 0.8198546922869132
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 122.17654623579504,
+    "FunctionalAssessment": 5.493297605138969,
+    "MoCA": 25.35845923901414,
+    "Age": 75,
+    "SleepQuality": 9.556171913232632,
+    "BMI": 35.16530713950161,
+    "AlcoholConsumption": 3.1603298215134545,
+    "DietQuality": 2.89338254951745
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 50.52745501433881,
+    "FunctionalAssessment": 4.476884037242189,
+    "MoCA": 6.533031561925366,
+    "Age": 83,
+    "SleepQuality": 5.712429192776089,
+    "BMI": 27.37930096772005,
+    "AlcoholConsumption": 5.942101088206718,
+    "DietQuality": 9.40970658325734
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 62.59070014477378,
+    "FunctionalAssessment": 7.599816695441848,
+    "MoCA": 14.65211809195473,
+    "Age": 80,
+    "SleepQuality": 6.371633529676137,
+    "BMI": 24.74946058185197,
+    "AlcoholConsumption": 0.2792705859155453,
+    "DietQuality": 5.905688967431631
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 123.62723778255636,
+    "FunctionalAssessment": 8.007342678871204,
+    "MoCA": 3.7609694708948616,
+    "Age": 50,
+    "SleepQuality": 5.1715441562692455,
+    "BMI": 18.06961939477137,
+    "AlcoholConsumption": 14.338408883364425,
+    "DietQuality": 0.8745833193443431
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 62.05293851324501,
+    "FunctionalAssessment": 6.621945127518819,
+    "MoCA": 28.421944469416008,
+    "Age": 52,
+    "SleepQuality": 5.842915703178985,
+    "BMI": 19.21042952468796,
+    "AlcoholConsumption": 8.736155750048358,
+    "DietQuality": 0.7918517504866596
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 113.77604669360112,
+    "FunctionalAssessment": 4.146217086922929,
+    "MoCA": 0.0545676003411221,
+    "Age": 82,
+    "SleepQuality": 7.9655303598726785,
+    "BMI": 17.410959190144446,
+    "AlcoholConsumption": 3.8741704435758217,
+    "DietQuality": 8.899518049573565
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 37.16984650427667,
+    "FunctionalAssessment": 8.032165848122117,
+    "MoCA": 9.99315872322708,
+    "Age": 65,
+    "SleepQuality": 8.064970170227806,
+    "BMI": 33.7398275669744,
+    "AlcoholConsumption": 1.080775198833741,
+    "DietQuality": 6.677812334769378
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 10.354641475437464,
+    "FunctionalAssessment": 8.635167659981466,
+    "MoCA": 28.930661823590405,
+    "Age": 68,
+    "SleepQuality": 8.039672310484972,
+    "BMI": 20.359618236180346,
+    "AlcoholConsumption": 4.959614804378639,
+    "DietQuality": 5.179786775998049
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 10.397441899916096,
+    "FunctionalAssessment": 8.49409016706982,
+    "MoCA": 8.92702450094432,
+    "Age": 89,
+    "SleepQuality": 5.38850504215124,
+    "BMI": 30.65924758743728,
+    "AlcoholConsumption": 8.369781451743389,
+    "DietQuality": 0.8030486656335878
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 143.08566420453317,
+    "FunctionalAssessment": 4.774603181603246,
+    "MoCA": 27.859020691504725,
+    "Age": 76,
+    "SleepQuality": 7.537967211962977,
+    "BMI": 35.00326724152877,
+    "AlcoholConsumption": 0.4497370668222933,
+    "DietQuality": 9.74132015669486
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 44.65250528919696,
+    "FunctionalAssessment": 9.83441352813975,
+    "MoCA": 18.410323714272657,
+    "Age": 77,
+    "SleepQuality": 6.344788921342525,
+    "BMI": 16.473679834814572,
+    "AlcoholConsumption": 12.324816015926352,
+    "DietQuality": 5.035158918419979
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 135.45567277860383,
+    "FunctionalAssessment": 0.2183426709322722,
+    "MoCA": 4.893984152739254,
+    "Age": 82,
+    "SleepQuality": 9.229531197604242,
+    "BMI": 38.61124105611811,
+    "AlcoholConsumption": 14.778503128173814,
+    "DietQuality": 4.5220365360704
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 191.6583795659952,
+    "FunctionalAssessment": 0.3525858037119733,
+    "MoCA": 1.3657464062357016,
+    "Age": 79,
+    "SleepQuality": 5.796310607922916,
+    "BMI": 23.245502238008086,
+    "AlcoholConsumption": 12.167325287286896,
+    "DietQuality": 3.784629049053674
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 166.98492602868922,
+    "FunctionalAssessment": 7.4533063452358705,
+    "MoCA": 2.521657126085791,
+    "Age": 56,
+    "SleepQuality": 6.866483710760315,
+    "BMI": 21.16146434470237,
+    "AlcoholConsumption": 2.9324822176439103,
+    "DietQuality": 6.272222559012938
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 168.97115273761895,
+    "FunctionalAssessment": 6.378767365294207,
+    "MoCA": 23.748813726660707,
+    "Age": 69,
+    "SleepQuality": 8.57126758229896,
+    "BMI": 27.223846363161872,
+    "AlcoholConsumption": 5.381488893123301,
+    "DietQuality": 8.68136793451267
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 112.88935840396886,
+    "FunctionalAssessment": 2.4884560276450287,
+    "MoCA": 26.08817200806676,
+    "Age": 61,
+    "SleepQuality": 6.33015012241676,
+    "BMI": 31.057561686896907,
+    "AlcoholConsumption": 17.39467752252428,
+    "DietQuality": 2.7286850931307907
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 137.71064058735064,
+    "FunctionalAssessment": 1.1161332492890597,
+    "MoCA": 6.26097801235434,
+    "Age": 67,
+    "SleepQuality": 6.219138549610575,
+    "BMI": 29.15730756646008,
+    "AlcoholConsumption": 15.83688568910145,
+    "DietQuality": 6.615655215196735
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 35.788430916733866,
+    "FunctionalAssessment": 2.549887682598695,
+    "MoCA": 13.422120680121218,
+    "Age": 60,
+    "SleepQuality": 6.570371339778413,
+    "BMI": 24.37116070516915,
+    "AlcoholConsumption": 12.30010230559886,
+    "DietQuality": 0.7225533224435254
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 79.44252106488442,
+    "FunctionalAssessment": 4.513650698436306,
+    "MoCA": 24.6424504651942,
+    "Age": 58,
+    "SleepQuality": 6.814282613342428,
+    "BMI": 33.87296616254615,
+    "AlcoholConsumption": 2.5640390042330186,
+    "DietQuality": 2.567794715771078
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 46.04904399405926,
+    "FunctionalAssessment": 5.268170552921696,
+    "MoCA": 9.847373874194991,
+    "Age": 69,
+    "SleepQuality": 7.265170007095422,
+    "BMI": 19.43358010223136,
+    "AlcoholConsumption": 4.716149352634494,
+    "DietQuality": 3.1857405544698603
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 134.48493012397412,
+    "FunctionalAssessment": 6.2588144886184445,
+    "MoCA": 7.418970216993311,
+    "Age": 51,
+    "SleepQuality": 9.184209252799,
+    "BMI": 16.822486777200304,
+    "AlcoholConsumption": 16.01081715945798,
+    "DietQuality": 3.426904727447604
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 86.95588006976045,
+    "FunctionalAssessment": 8.040190328187466,
+    "MoCA": 19.147984386713063,
+    "Age": 89,
+    "SleepQuality": 5.297699331706802,
+    "BMI": 24.532749367426764,
+    "AlcoholConsumption": 3.422352764082055,
+    "DietQuality": 4.574681499987198
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 155.34447925114264,
+    "FunctionalAssessment": 3.7143772912964814,
+    "MoCA": 0.9116583522643572,
+    "Age": 73,
+    "SleepQuality": 6.063195561217489,
+    "BMI": 20.1250787303493,
+    "AlcoholConsumption": 10.97662171578304,
+    "DietQuality": 4.853039199383958
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 33.63845356071681,
+    "FunctionalAssessment": 6.424451585098566,
+    "MoCA": 10.707023756266771,
+    "Age": 84,
+    "SleepQuality": 8.317512950887426,
+    "BMI": 39.41443807060133,
+    "AlcoholConsumption": 6.576446450735269,
+    "DietQuality": 1.5740929440529303
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 67.75352425726322,
+    "FunctionalAssessment": 6.5023201763830265,
+    "MoCA": 15.281894154865888,
+    "Age": 53,
+    "SleepQuality": 4.830295798875573,
+    "BMI": 33.06580163531902,
+    "AlcoholConsumption": 19.20544673959619,
+    "DietQuality": 1.02276926733056
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 86.69744943959522,
+    "FunctionalAssessment": 9.899693582119308,
+    "MoCA": 2.197164836513287,
+    "Age": 89,
+    "SleepQuality": 4.031392656281411,
+    "BMI": 19.79507160969373,
+    "AlcoholConsumption": 11.478279180215834,
+    "DietQuality": 6.536500029627205
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 172.18967290275796,
+    "FunctionalAssessment": 2.8349693491324324,
+    "MoCA": 19.797125659189355,
+    "Age": 50,
+    "SleepQuality": 6.858845561203174,
+    "BMI": 22.41312071115661,
+    "AlcoholConsumption": 12.325377308066331,
+    "DietQuality": 7.698530068623857
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 0.943476392750856,
+    "FunctionalAssessment": 2.648980606858004,
+    "MoCA": 20.902111579556937,
+    "Age": 52,
+    "SleepQuality": 9.391457963537864,
+    "BMI": 27.85162763007377,
+    "AlcoholConsumption": 0.8547987921562172,
+    "DietQuality": 4.964238990070173
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 95.792264064011,
+    "FunctionalAssessment": 1.53806297515368,
+    "MoCA": 1.5480824025254358,
+    "Age": 51,
+    "SleepQuality": 9.136133854444976,
+    "BMI": 15.233282726266978,
+    "AlcoholConsumption": 11.926107221889293,
+    "DietQuality": 7.714173933464266
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 110.54558813881376,
+    "FunctionalAssessment": 6.170704581934288,
+    "MoCA": 5.892596759619564,
+    "Age": 64,
+    "SleepQuality": 9.101664343576514,
+    "BMI": 28.790571644340027,
+    "AlcoholConsumption": 18.767259758361902,
+    "DietQuality": 1.6008397036218458
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 191.06357956684093,
+    "FunctionalAssessment": 9.819440115305207,
+    "MoCA": 10.9349377316069,
+    "Age": 78,
+    "SleepQuality": 8.555582320934036,
+    "BMI": 39.4682561502696,
+    "AlcoholConsumption": 0.0114918346152936,
+    "DietQuality": 1.829226405762048
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 198.22661240191013,
+    "FunctionalAssessment": 8.771475515976686,
+    "MoCA": 3.988918812809803,
+    "Age": 80,
+    "SleepQuality": 5.872701227765536,
+    "BMI": 22.226969467278188,
+    "AlcoholConsumption": 17.826901682339912,
+    "DietQuality": 1.9928975529260275
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 18.54956410854979,
+    "FunctionalAssessment": 1.5230161128459452,
+    "MoCA": 6.401730131833081,
+    "Age": 68,
+    "SleepQuality": 4.53351120609848,
+    "BMI": 19.813013665151423,
+    "AlcoholConsumption": 8.261759262811717,
+    "DietQuality": 3.563115033169293
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 135.1311944306848,
+    "FunctionalAssessment": 3.5747061919532785,
+    "MoCA": 16.39095720453464,
+    "Age": 63,
+    "SleepQuality": 4.333095917991646,
+    "BMI": 38.48815722968985,
+    "AlcoholConsumption": 13.90284028193116,
+    "DietQuality": 3.222998866971194
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 115.9078305905209,
+    "FunctionalAssessment": 8.387757243904446,
+    "MoCA": 26.05979985467821,
+    "Age": 54,
+    "SleepQuality": 7.793199716365383,
+    "BMI": 31.58356376456568,
+    "AlcoholConsumption": 2.5603467222199927,
+    "DietQuality": 6.891913098860942
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 107.08984674354495,
+    "FunctionalAssessment": 3.1062138108858,
+    "MoCA": 17.16086606960418,
+    "Age": 74,
+    "SleepQuality": 8.148789045381166,
+    "BMI": 17.592434503197286,
+    "AlcoholConsumption": 9.928099492680149,
+    "DietQuality": 7.208611882692713
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 115.47431198814888,
+    "FunctionalAssessment": 9.17412570670179,
+    "MoCA": 8.071297068853676,
+    "Age": 69,
+    "SleepQuality": 8.505864265445602,
+    "BMI": 22.74611780894813,
+    "AlcoholConsumption": 16.852773449671115,
+    "DietQuality": 7.045897288254462
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 158.50259662874484,
+    "FunctionalAssessment": 5.377729468817317,
+    "MoCA": 7.898191626213366,
+    "Age": 87,
+    "SleepQuality": 4.973436318358534,
+    "BMI": 28.05918491000064,
+    "AlcoholConsumption": 2.3062524099679083,
+    "DietQuality": 1.2172028765686094
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 12.454001025651444,
+    "FunctionalAssessment": 4.313442975836626,
+    "MoCA": 28.28743447126934,
+    "Age": 75,
+    "SleepQuality": 7.936707022002178,
+    "BMI": 34.55350560570103,
+    "AlcoholConsumption": 3.608698798413068,
+    "DietQuality": 5.837843732744108
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 170.68081975490028,
+    "FunctionalAssessment": 8.139335297392606,
+    "MoCA": 24.698079780699327,
+    "Age": 64,
+    "SleepQuality": 9.379266020715704,
+    "BMI": 15.395134376882504,
+    "AlcoholConsumption": 11.12541090151306,
+    "DietQuality": 7.475613298377924
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 147.59518644627647,
+    "FunctionalAssessment": 0.8163168912329688,
+    "MoCA": 22.099758140477693,
+    "Age": 87,
+    "SleepQuality": 9.287605579682111,
+    "BMI": 26.591072300970403,
+    "AlcoholConsumption": 8.492496792915972,
+    "DietQuality": 8.905975896766504
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 118.76881433734948,
+    "FunctionalAssessment": 9.59579185767825,
+    "MoCA": 21.271687900870557,
+    "Age": 75,
+    "SleepQuality": 5.311213259196816,
+    "BMI": 31.10651033215939,
+    "AlcoholConsumption": 17.02913466506718,
+    "DietQuality": 8.094892335078617
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 71.40339857488577,
+    "FunctionalAssessment": 7.204553147575609,
+    "MoCA": 2.823070896881601,
+    "Age": 79,
+    "SleepQuality": 5.316489987059504,
+    "BMI": 26.435628322434063,
+    "AlcoholConsumption": 13.433156148410909,
+    "DietQuality": 3.792063240144728
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 52.21746160795671,
+    "FunctionalAssessment": 6.628810320802943,
+    "MoCA": 18.61897022580611,
+    "Age": 71,
+    "SleepQuality": 9.75246709635604,
+    "BMI": 22.13082985905856,
+    "AlcoholConsumption": 0.6976043934416287,
+    "DietQuality": 5.819864420267018
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 179.16972196671065,
+    "FunctionalAssessment": 9.38864046841942,
+    "MoCA": 9.532072288552008,
+    "Age": 51,
+    "SleepQuality": 5.643607569887038,
+    "BMI": 30.559400098170865,
+    "AlcoholConsumption": 10.71444023895779,
+    "DietQuality": 0.6387583146667464
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 158.0415918180221,
+    "FunctionalAssessment": 8.071240836953768,
+    "MoCA": 7.870556361941486,
+    "Age": 78,
+    "SleepQuality": 5.431409465943888,
+    "BMI": 38.84100486529088,
+    "AlcoholConsumption": 9.907691887686449,
+    "DietQuality": 0.3780906140627638
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 137.49026009795023,
+    "FunctionalAssessment": 9.69635076948,
+    "MoCA": 17.681204553242292,
+    "Age": 72,
+    "SleepQuality": 7.798308944056553,
+    "BMI": 27.805577903195463,
+    "AlcoholConsumption": 0.1171707377910524,
+    "DietQuality": 6.143647622413467
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 186.66691664238397,
+    "FunctionalAssessment": 7.995727793717974,
+    "MoCA": 24.42271981278174,
+    "Age": 66,
+    "SleepQuality": 9.013719289951167,
+    "BMI": 23.18711568278347,
+    "AlcoholConsumption": 18.79904401683545,
+    "DietQuality": 9.411928421794274
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 13.211637905048894,
+    "FunctionalAssessment": 4.506493931427724,
+    "MoCA": 8.184719082697505,
+    "Age": 68,
+    "SleepQuality": 6.087683913745227,
+    "BMI": 27.442452043271945,
+    "AlcoholConsumption": 2.884475430193622,
+    "DietQuality": 5.498382552619278
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 18.639055403286253,
+    "FunctionalAssessment": 7.549350821967328,
+    "MoCA": 11.897269276379363,
+    "Age": 83,
+    "SleepQuality": 8.560994205819508,
+    "BMI": 18.79479589258546,
+    "AlcoholConsumption": 14.60144145530068,
+    "DietQuality": 4.055506397470467
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 45.0254303758182,
+    "FunctionalAssessment": 3.9890393863236207,
+    "MoCA": 15.141578161948985,
+    "Age": 54,
+    "SleepQuality": 9.405583951508405,
+    "BMI": 39.57061625143243,
+    "AlcoholConsumption": 18.096925546779534,
+    "DietQuality": 4.707543916582951
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 7.810594502998255,
+    "FunctionalAssessment": 8.645001577411085,
+    "MoCA": 27.47457615392248,
+    "Age": 72,
+    "SleepQuality": 5.383923684707764,
+    "BMI": 39.54415326045937,
+    "AlcoholConsumption": 18.70750739142413,
+    "DietQuality": 2.7389061899591285
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 129.46629465999985,
+    "FunctionalAssessment": 7.664152989789683,
+    "MoCA": 6.512386388006166,
+    "Age": 60,
+    "SleepQuality": 5.681767319083969,
+    "BMI": 24.410139147811694,
+    "AlcoholConsumption": 16.916759855625976,
+    "DietQuality": 3.642406137437044
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 142.66935805483243,
+    "FunctionalAssessment": 9.828624315692483,
+    "MoCA": 0.2699677933626598,
+    "Age": 77,
+    "SleepQuality": 9.712984743855062,
+    "BMI": 16.53928105567186,
+    "AlcoholConsumption": 11.101799058529302,
+    "DietQuality": 7.185836595244516
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 73.1004027814807,
+    "FunctionalAssessment": 8.847006219041733,
+    "MoCA": 7.29424249034503,
+    "Age": 75,
+    "SleepQuality": 7.545838887671526,
+    "BMI": 18.64584541402821,
+    "AlcoholConsumption": 4.729228278051892,
+    "DietQuality": 0.7686452984593484
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 196.12167532158003,
+    "FunctionalAssessment": 8.895020351064035,
+    "MoCA": 14.050004213397925,
+    "Age": 83,
+    "SleepQuality": 8.469545668362821,
+    "BMI": 34.66212912290888,
+    "AlcoholConsumption": 19.57182718962692,
+    "DietQuality": 2.8308408875600435
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 92.23435571397276,
+    "FunctionalAssessment": 2.497795027320869,
+    "MoCA": 10.721109193878934,
+    "Age": 51,
+    "SleepQuality": 4.494500679764192,
+    "BMI": 17.035011874773563,
+    "AlcoholConsumption": 14.89903025911145,
+    "DietQuality": 0.738320927796059
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 193.45576190021484,
+    "FunctionalAssessment": 6.977664368588957,
+    "MoCA": 18.4353857366747,
+    "Age": 82,
+    "SleepQuality": 7.650638321903529,
+    "BMI": 34.728657274654466,
+    "AlcoholConsumption": 17.811560322160723,
+    "DietQuality": 6.470792739380822
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 165.76405287854422,
+    "FunctionalAssessment": 7.5972514854027775,
+    "MoCA": 10.9415085904004,
+    "Age": 72,
+    "SleepQuality": 4.204876082508378,
+    "BMI": 29.477027620016045,
+    "AlcoholConsumption": 10.12098052787456,
+    "DietQuality": 2.208656676874475
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 168.40540297552894,
+    "FunctionalAssessment": 5.930513856972331,
+    "MoCA": 19.37874211333448,
+    "Age": 52,
+    "SleepQuality": 4.252122688048212,
+    "BMI": 33.01568077563692,
+    "AlcoholConsumption": 12.94883823916172,
+    "DietQuality": 8.292830328353766
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 184.6508920227666,
+    "FunctionalAssessment": 4.199664096757106,
+    "MoCA": 22.174185605646716,
+    "Age": 53,
+    "SleepQuality": 7.427424118272057,
+    "BMI": 39.29595140764839,
+    "AlcoholConsumption": 6.973724325811805,
+    "DietQuality": 1.4830121493854675
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 20.65173138797914,
+    "FunctionalAssessment": 2.921003380653686,
+    "MoCA": 2.2796514606009333,
+    "Age": 87,
+    "SleepQuality": 8.022647758180346,
+    "BMI": 37.4277101386372,
+    "AlcoholConsumption": 8.221672646497215,
+    "DietQuality": 8.903940268769468
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 192.0709256038554,
+    "FunctionalAssessment": 6.6524467472277005,
+    "MoCA": 6.5171988526582245,
+    "Age": 77,
+    "SleepQuality": 9.898127111778145,
+    "BMI": 36.90618575909461,
+    "AlcoholConsumption": 18.282752204315564,
+    "DietQuality": 1.2881604569960614
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 100.06687565287346,
+    "FunctionalAssessment": 2.1635321521327167,
+    "MoCA": 19.06778054652749,
+    "Age": 88,
+    "SleepQuality": 8.942082749628598,
+    "BMI": 22.18311442009402,
+    "AlcoholConsumption": 16.515246244316938,
+    "DietQuality": 9.107292923537509
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 78.53356250913181,
+    "FunctionalAssessment": 1.8277295321874245,
+    "MoCA": 5.696300961297339,
+    "Age": 53,
+    "SleepQuality": 8.050919770059203,
+    "BMI": 31.962495120019888,
+    "AlcoholConsumption": 9.051649551985436,
+    "DietQuality": 8.339365019213679
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 156.81530975273677,
+    "FunctionalAssessment": 6.407507366241212,
+    "MoCA": 17.002780463521106,
+    "Age": 50,
+    "SleepQuality": 4.435209636978396,
+    "BMI": 17.139208075106296,
+    "AlcoholConsumption": 13.51517458596146,
+    "DietQuality": 0.9038424175598948
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 155.0056768545661,
+    "FunctionalAssessment": 5.730842765057757,
+    "MoCA": 18.578338769869298,
+    "Age": 54,
+    "SleepQuality": 6.820610547157655,
+    "BMI": 28.009199387875505,
+    "AlcoholConsumption": 15.35375438930457,
+    "DietQuality": 3.730974906528703
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 75.94900998490407,
+    "FunctionalAssessment": 3.7057400664595006,
+    "MoCA": 24.570683488336865,
+    "Age": 68,
+    "SleepQuality": 9.493585538544714,
+    "BMI": 30.20124973668026,
+    "AlcoholConsumption": 7.964644918180634,
+    "DietQuality": 1.635746813018979
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 182.08318248164653,
+    "FunctionalAssessment": 8.981580932224986,
+    "MoCA": 21.44804109553626,
+    "Age": 85,
+    "SleepQuality": 9.53257964553503,
+    "BMI": 19.3358366241317,
+    "AlcoholConsumption": 2.3300725054925864,
+    "DietQuality": 7.689905805122802
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 36.04618064583323,
+    "FunctionalAssessment": 5.882463975252948,
+    "MoCA": 9.808237611372792,
+    "Age": 76,
+    "SleepQuality": 6.760688565514991,
+    "BMI": 27.76201247398986,
+    "AlcoholConsumption": 12.14148089083837,
+    "DietQuality": 6.067301354260456
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 78.13891829887521,
+    "FunctionalAssessment": 8.900952988856426,
+    "MoCA": 3.035355717844036,
+    "Age": 81,
+    "SleepQuality": 7.212174679012832,
+    "BMI": 36.812120808519424,
+    "AlcoholConsumption": 7.7932396219841715,
+    "DietQuality": 5.328625452275687
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 182.5438219118982,
+    "FunctionalAssessment": 4.98365118220568,
+    "MoCA": 21.668522857908016,
+    "Age": 67,
+    "SleepQuality": 6.677075554202859,
+    "BMI": 34.39699253590602,
+    "AlcoholConsumption": 5.125067279391661,
+    "DietQuality": 8.826508032506764
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 55.989166363708,
+    "FunctionalAssessment": 9.521699853017305,
+    "MoCA": 13.057989902545804,
+    "Age": 82,
+    "SleepQuality": 8.395726266860606,
+    "BMI": 31.33772050917893,
+    "AlcoholConsumption": 18.267148149733924,
+    "DietQuality": 1.4422695673817163
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 134.9906546052903,
+    "FunctionalAssessment": 2.964228761261263,
+    "MoCA": 2.85820912959849,
+    "Age": 80,
+    "SleepQuality": 5.950937974539391,
+    "BMI": 38.41453007368886,
+    "AlcoholConsumption": 5.452392275362148,
+    "DietQuality": 6.537902391961938
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 47.4388008556492,
+    "FunctionalAssessment": 4.362405415334908,
+    "MoCA": 27.84812424702173,
+    "Age": 50,
+    "SleepQuality": 5.392398867155821,
+    "BMI": 39.25894862081246,
+    "AlcoholConsumption": 0.9501857410480308,
+    "DietQuality": 1.890254097412776
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 166.8501527028335,
+    "FunctionalAssessment": 5.611402072892627,
+    "MoCA": 3.489315086210261,
+    "Age": 78,
+    "SleepQuality": 7.767544374601426,
+    "BMI": 35.103518354996105,
+    "AlcoholConsumption": 17.704011894231,
+    "DietQuality": 4.692869741934399
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 2.038145162360553,
+    "FunctionalAssessment": 5.096232109065465,
+    "MoCA": 7.79903908679116,
+    "Age": 75,
+    "SleepQuality": 6.962921567201783,
+    "BMI": 30.02037441147577,
+    "AlcoholConsumption": 7.672819069958107,
+    "DietQuality": 9.219335045009831
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 157.80664672915734,
+    "FunctionalAssessment": 8.66590797368189,
+    "MoCA": 12.68609076950884,
+    "Age": 64,
+    "SleepQuality": 6.073985217545119,
+    "BMI": 38.62019721707213,
+    "AlcoholConsumption": 17.047283914683963,
+    "DietQuality": 4.069069816048138
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 26.60917963854712,
+    "FunctionalAssessment": 6.251209863441227,
+    "MoCA": 10.669360990488176,
+    "Age": 57,
+    "SleepQuality": 9.375087678576524,
+    "BMI": 39.27789363241178,
+    "AlcoholConsumption": 0.9255495673520664,
+    "DietQuality": 8.962541766202737
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 191.3477171744378,
+    "FunctionalAssessment": 8.824989189701988,
+    "MoCA": 10.91883907300165,
+    "Age": 60,
+    "SleepQuality": 5.2714593513153005,
+    "BMI": 33.73505583774573,
+    "AlcoholConsumption": 12.880632310458926,
+    "DietQuality": 3.8399608603472513
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 40.33600982024459,
+    "FunctionalAssessment": 8.787244655433847,
+    "MoCA": 24.10999371982397,
+    "Age": 51,
+    "SleepQuality": 7.101700038540281,
+    "BMI": 24.18130844918919,
+    "AlcoholConsumption": 12.775855476635687,
+    "DietQuality": 8.282879616296501
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 101.00781365186484,
+    "FunctionalAssessment": 5.687164842751304,
+    "MoCA": 13.822810542235224,
+    "Age": 63,
+    "SleepQuality": 4.1148563723102685,
+    "BMI": 31.01103731718902,
+    "AlcoholConsumption": 16.579620222289094,
+    "DietQuality": 7.88168364498574
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 67.71562500770987,
+    "FunctionalAssessment": 9.123743600307591,
+    "MoCA": 2.967404284732714,
+    "Age": 51,
+    "SleepQuality": 6.340067838172516,
+    "BMI": 39.96833886486503,
+    "AlcoholConsumption": 19.589274629390964,
+    "DietQuality": 7.791838022931095
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 119.00132300653976,
+    "FunctionalAssessment": 2.807234875412834,
+    "MoCA": 22.7249413879404,
+    "Age": 81,
+    "SleepQuality": 6.655308134637177,
+    "BMI": 20.54493928153175,
+    "AlcoholConsumption": 5.836049700718218,
+    "DietQuality": 1.9695698490566584
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "no",
+    "UPDRS": 85.96386996380895,
+    "FunctionalAssessment": 9.758514525440397,
+    "MoCA": 27.18059053903132,
+    "Age": 54,
+    "SleepQuality": 9.44470830477578,
+    "BMI": 25.151142819604097,
+    "AlcoholConsumption": 13.299647064295533,
+    "DietQuality": 9.78736872356251
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 6.084134091340431,
+    "FunctionalAssessment": 9.815140556815136,
+    "MoCA": 12.629556718490832,
+    "Age": 63,
+    "SleepQuality": 4.277792457004641,
+    "BMI": 15.164257548300268,
+    "AlcoholConsumption": 3.902412490725433,
+    "DietQuality": 4.505656903303707
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 156.19094405798788,
+    "FunctionalAssessment": 5.75140698440358,
+    "MoCA": 14.415794259646844,
+    "Age": 86,
+    "SleepQuality": 8.439833148529244,
+    "BMI": 34.62784054349062,
+    "AlcoholConsumption": 5.587477594152213,
+    "DietQuality": 5.683044931024186
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 103.74116618812845,
+    "FunctionalAssessment": 7.639711843583968,
+    "MoCA": 2.9667910467062217,
+    "Age": 51,
+    "SleepQuality": 6.2421320572409655,
+    "BMI": 23.80044187970074,
+    "AlcoholConsumption": 11.052152968852589,
+    "DietQuality": 6.789430036700593
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 51.82798359304032,
+    "FunctionalAssessment": 5.17713847779876,
+    "MoCA": 22.94907626730879,
+    "Age": 66,
+    "SleepQuality": 5.808863976623381,
+    "BMI": 20.99288754273556,
+    "AlcoholConsumption": 2.604855323088222,
+    "DietQuality": 7.967601160876433
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 39.18649979823837,
+    "FunctionalAssessment": 2.0673802010954336,
+    "MoCA": 13.78514614614922,
+    "Age": 70,
+    "SleepQuality": 4.665467700795787,
+    "BMI": 18.660273164798397,
+    "AlcoholConsumption": 3.628997392981985,
+    "DietQuality": 7.802261194126232
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 76.33329182068607,
+    "FunctionalAssessment": 0.9191581966758744,
+    "MoCA": 14.18312441117033,
+    "Age": 57,
+    "SleepQuality": 4.154558065504022,
+    "BMI": 34.43664278388862,
+    "AlcoholConsumption": 1.002192213999602,
+    "DietQuality": 7.99892982369612
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 49.78061567527551,
+    "FunctionalAssessment": 1.2016247001844391,
+    "MoCA": 25.14710798479552,
+    "Age": 74,
+    "SleepQuality": 8.264476970352197,
+    "BMI": 25.14339078658552,
+    "AlcoholConsumption": 19.312464961778883,
+    "DietQuality": 3.586912531094594
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 26.381749491464983,
+    "FunctionalAssessment": 2.356301926445463,
+    "MoCA": 20.190209028149965,
+    "Age": 87,
+    "SleepQuality": 5.588063327166534,
+    "BMI": 16.359684606380345,
+    "AlcoholConsumption": 13.118392259075216,
+    "DietQuality": 5.841211879019289
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 118.87947440387724,
+    "FunctionalAssessment": 9.143752177575786,
+    "MoCA": 2.1010515395193874,
+    "Age": 76,
+    "SleepQuality": 9.400522622740503,
+    "BMI": 29.43115559978093,
+    "AlcoholConsumption": 1.6624181472151744,
+    "DietQuality": 5.33626265520447
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 180.11595055954538,
+    "FunctionalAssessment": 1.3507157987957852,
+    "MoCA": 13.600176906080616,
+    "Age": 52,
+    "SleepQuality": 6.508057020221113,
+    "BMI": 33.258791579995744,
+    "AlcoholConsumption": 5.08539538838167,
+    "DietQuality": 6.712989252617197
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 91.79390937834464,
+    "FunctionalAssessment": 7.086733872142531,
+    "MoCA": 20.47269732919142,
+    "Age": 59,
+    "SleepQuality": 4.15440891271445,
+    "BMI": 17.60252154763705,
+    "AlcoholConsumption": 7.5552702489563455,
+    "DietQuality": 9.283053323153434
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 171.09118180434297,
+    "FunctionalAssessment": 0.2494293690004456,
+    "MoCA": 16.153514932810914,
+    "Age": 77,
+    "SleepQuality": 8.08830225325319,
+    "BMI": 34.56556709328356,
+    "AlcoholConsumption": 3.9767333969038177,
+    "DietQuality": 5.946416395936453
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 22.793478963294746,
+    "FunctionalAssessment": 1.430993958917366,
+    "MoCA": 29.476831958219087,
+    "Age": 67,
+    "SleepQuality": 4.151024872894618,
+    "BMI": 16.615834048017494,
+    "AlcoholConsumption": 11.48956228379441,
+    "DietQuality": 6.159975218188399
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 12.184463097865482,
+    "FunctionalAssessment": 4.892197500617068,
+    "MoCA": 16.945856284225624,
+    "Age": 54,
+    "SleepQuality": 8.327454228355338,
+    "BMI": 27.97734194005615,
+    "AlcoholConsumption": 2.6819460899619063,
+    "DietQuality": 5.60960666926494
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 87.84364736537901,
+    "FunctionalAssessment": 4.309421992894656,
+    "MoCA": 0.9650834007168996,
+    "Age": 52,
+    "SleepQuality": 9.90376640346793,
+    "BMI": 26.320805839503,
+    "AlcoholConsumption": 8.981698842797579,
+    "DietQuality": 7.2312470787959
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 112.73366478018286,
+    "FunctionalAssessment": 5.5116084468908575,
+    "MoCA": 17.491407207846148,
+    "Age": 80,
+    "SleepQuality": 9.045657432277665,
+    "BMI": 25.58803659131658,
+    "AlcoholConsumption": 7.148994784130542,
+    "DietQuality": 6.058457020232188
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 105.7700492777184,
+    "FunctionalAssessment": 2.50655953356259,
+    "MoCA": 14.38737990673403,
+    "Age": 71,
+    "SleepQuality": 6.366299170755931,
+    "BMI": 34.69577306409518,
+    "AlcoholConsumption": 15.977018722233446,
+    "DietQuality": 9.7032883911561
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 160.90134838920025,
+    "FunctionalAssessment": 4.276759878032332,
+    "MoCA": 18.193626569789533,
+    "Age": 86,
+    "SleepQuality": 4.249753969847852,
+    "BMI": 32.603647147321176,
+    "AlcoholConsumption": 1.6424939835463337,
+    "DietQuality": 2.713029405045818
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 0.9492621360629796,
+    "FunctionalAssessment": 7.782003787570405,
+    "MoCA": 19.5072241243014,
+    "Age": 85,
+    "SleepQuality": 7.67781848617299,
+    "BMI": 15.878497577230982,
+    "AlcoholConsumption": 18.971803966561488,
+    "DietQuality": 1.253485180661018
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 191.99282397083377,
+    "FunctionalAssessment": 0.128730986331681,
+    "MoCA": 7.727093144804847,
+    "Age": 84,
+    "SleepQuality": 6.183108755299157,
+    "BMI": 33.877784757038995,
+    "AlcoholConsumption": 15.545237269560774,
+    "DietQuality": 1.9017834655966792
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 40.37066805559035,
+    "FunctionalAssessment": 5.383113118357664,
+    "MoCA": 28.32080815683708,
+    "Age": 63,
+    "SleepQuality": 8.239430942326358,
+    "BMI": 28.35087083013473,
+    "AlcoholConsumption": 1.361571769391963,
+    "DietQuality": 5.137724438139695
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 192.33174329304592,
+    "FunctionalAssessment": 7.9200236705792015,
+    "MoCA": 4.406907773103624,
+    "Age": 56,
+    "SleepQuality": 8.056418692081083,
+    "BMI": 16.429902073589595,
+    "AlcoholConsumption": 13.153843952146174,
+    "DietQuality": 7.266600813901155
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 56.05281682933842,
+    "FunctionalAssessment": 2.9087416254078637,
+    "MoCA": 22.556664826530813,
+    "Age": 74,
+    "SleepQuality": 6.222839927012679,
+    "BMI": 26.08381481890264,
+    "AlcoholConsumption": 16.83710415776818,
+    "DietQuality": 7.628600772681002
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "yes",
+    "PosturalInstability": "yes",
+    "UPDRS": 24.493895712741125,
+    "FunctionalAssessment": 7.403660429941592,
+    "MoCA": 3.8944096927235607,
+    "Age": 75,
+    "SleepQuality": 8.957994539337506,
+    "BMI": 30.798955179721155,
+    "AlcoholConsumption": 18.481780011164798,
+    "DietQuality": 1.5241401148725664
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 89.49034826769322,
+    "FunctionalAssessment": 1.9423867302796127,
+    "MoCA": 28.981953117193168,
+    "Age": 83,
+    "SleepQuality": 6.442023861444885,
+    "BMI": 25.19273223843557,
+    "AlcoholConsumption": 5.0457657584923,
+    "DietQuality": 4.755849370180063
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "yes",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 176.77687363534014,
+    "FunctionalAssessment": 1.779733785513451,
+    "MoCA": 8.133895813862436,
+    "Age": 84,
+    "SleepQuality": 4.141726512604505,
+    "BMI": 36.30722133487386,
+    "AlcoholConsumption": 13.907499687624869,
+    "DietQuality": 6.014416821566503
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "yes",
+    "UPDRS": 103.25084758063292,
+    "FunctionalAssessment": 0.3476082522598067,
+    "MoCA": 22.53070093563037,
+    "Age": 57,
+    "SleepQuality": 5.340945377954238,
+    "BMI": 19.453860543325767,
+    "AlcoholConsumption": 6.8303063812388,
+    "DietQuality": 3.7545011621184345
+}
+
+{
+    "Tremor": "yes",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 172.01190934387796,
+    "FunctionalAssessment": 4.611534378596204,
+    "MoCA": 5.645201248441799,
+    "Age": 53,
+    "SleepQuality": 5.569759738189951,
+    "BMI": 35.8967386979048,
+    "AlcoholConsumption": 5.212906262505421,
+    "DietQuality": 7.918912221561628
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 121.42537463969543,
+    "FunctionalAssessment": 6.051347182414358,
+    "MoCA": 17.712721408487397,
+    "Age": 53,
+    "SleepQuality": 8.590508720841724,
+    "BMI": 30.111818387309757,
+    "AlcoholConsumption": 5.942235123369408,
+    "DietQuality": 1.504967162688513
+}
+
+{
+    "Tremor": "no",
+    "Rigidity": "no",
+    "Bradykinesia": "no",
+    "PosturalInstability": "no",
+    "UPDRS": 111.27244263974342,
+    "FunctionalAssessment": 1.294738142285009,
+    "MoCA": 27.143944908099616,
+    "Age": 71,
+    "SleepQuality": 9.668516650016562,
+    "BMI": 29.762091446457564,
+    "AlcoholConsumption": 1.906707690576108,
+    "DietQuality": 0.4828826163318789
+}
+
