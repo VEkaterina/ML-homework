@@ -43,7 +43,7 @@ This repository contains:
 - The **Notebook.ipynb** file with data preparation and cleaning, as well as with features and model selection process.
 - The **test.txt** which contains pre-processed data form the dataset. To test the model, you can copy a dictionary containing health-related info of a person from *Maternal Health Risk Data*, use it as an input and recieve a prediction. 
 
-The application was deployed via [Render](https://render.com/). It is accessible via this link:  
+The application was deployed via [Render](https://render.com/). It is accessible via this [link](https://ml-homework.onrender.com/docs)
 
 
 Be aware that the application needs time to swicth from sleeping to an active mode. Moreover, Render tends to show an error while executing the link for the first time. Please, reload the page, it you see an error or an empty scree, this should help.
@@ -56,7 +56,7 @@ Be aware that the application needs time to swicth from sleeping to an active mo
    - Copy one of the feature-dictionary entries from `test.txt`.   
 
 2. **Prediction via Web UI**:  
-   - Visit the API docs: 
+   - Visit the API docs: https://ml-homework.onrender.com/docs
    - Click on **Try it out** button to execute the model
    - Replace *"{"additionalProp1": {} }* with a dictionary containing health info of one person from *test.txt*, the click on the **Execute** button.
    - The model will return:  
