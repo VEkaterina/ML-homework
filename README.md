@@ -1,3 +1,3 @@
-# ML-homework
+# Machine learning course (Python)
 
-Homework for the ML course 2025
+Projects for the ML course 2025
